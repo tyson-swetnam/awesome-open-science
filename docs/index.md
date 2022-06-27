@@ -27,17 +27,17 @@ This Awesome List is compiled in the effort to help new researchers find and lea
 
     ??? "Six Pillars :material-pillar: of Open Science"
 
-        **Open methodology**
+        **:material-pillar: Open methodology**
       
-        **Open Source Software**
+        **:material-pillar: Open Source Software**
       
-        **Open Data**
+        **:material-pillar: Open Data**
 
-        **Open Access**
+        **:material-pillar: Open Access**
 
-        **Open Peer Review**
+        **:material-pillar: Open Peer Review**
 
-        **Open Educational Resources**
+        **:material-pillar: Open Educational Resources**
 
 ??? Question "How do you define reproducible science?"
 
