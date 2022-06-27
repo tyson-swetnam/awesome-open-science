@@ -8,12 +8,13 @@
 
 [BioRxiv](https://www.biorxiv.org/){target=_blank} -  is an open access preprint repository for the biological sciences.
 
-
 [MedRxiv](https://www.medrxiv.org/){target=_blank}
 
-## Financial Support for Open Access Publishing Fees
+[SocArXiv](SocArXiv){target=_blank}
 
-[](){target=_blank}
+[OSF.io Preprints](https://osf.io/preprints/){target=_blank}
+
+## Financial Support for Open Access Publishing Fees
 
 [SciDevNet](https://www.scidev.net/global/){target=_blank}
 
@@ -32,3 +33,5 @@
 [American Geophysical Union](https://www.agu.org/Publish-with-AGU/Publish/Open-Access){target=_blank}
 
 [Commonwealth Scientific and Industrial Research Organisation (CSIRO)](https://acsopenscience.org/australia-csiro/){target=_blank}
+
+[Open Research Europe](https://open-research-europe.ec.europa.eu/){target=_blank}

@@ -1,8 +1,26 @@
+## Commercial Cloud Credits
+
+[AWS Cloud Credit for Research](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/){target=_blank}
+
+[Google Cloud Research Credits](https://cloud.google.com/edu/researchers){target=_blank}
+
+[Microsoft Azure Research Credits](https://www.microsoft.com/en-us/azure-academic-research/){target=_blank}
+
 ## Run your own Cloud
 
 [OpenStack](https://www.openstack.org/){target=_blank} - the most widely deployed open source cloud software in the world
 
-## Canada :flag_ca:
+### Build your own Hardware
+
+Buy your own hardware
+
+[Giga.io](https://gigaio.com/){target=_blank}
+
+[Open Storage Network](https://www.openstoragenetwork.org/){target=_blank}
+
+## National Cloud resources for research
+
+### Canada :flag_ca:
 
 [Compute Canada](https://www.computecanada.ca/){target=_blank}
 
@@ -38,11 +56,3 @@
 [National Integrated Cyberinfrastructure System (NICIS)](https://nicis.ac.za/){target=_blank}
 
 [](){target=_blank}
-
-## Hardware
-
-Buy your own hardware
-
-[Giga.io](https://gigaio.com/){target=_blank}
-
-[Open Storage Network](https://www.openstoragenetwork.org/){target=_blank}

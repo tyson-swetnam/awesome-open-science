@@ -8,12 +8,36 @@ This Awesome List is compiled in the effort to help new researchers find and lea
 
   - [Funding](funding.md)
   - [Data Management Plans](dmp.md)
-  - [Data Repositories](data.md) 
+  - [Data](data.md) 
   - [Search Engines](search.md)
   - [Open Accesss Publishing](publishing.md)
+  - [Open Peer Review](reviews.md)
+  - [Cyberinfrastructure](cyberinfrastructure.md)
   - [Cloud](cloud.md)
   - [Education](edu.md) 
   - [Networks](networks.md)
+
+### Open Science FAQ
+
+??? Question "What is Open Science?"
+
+    [Wikipedia definition](https://en.wikipedia.org/wiki/Open_science){target=_blank}
+
+    [UNESCO definition](https://www.unesco.org/en/natural-sciences/open-science)
+
+    ??? "Six Pillars :material-pillar: of Open Science"
+
+        **Open methodology**
+      
+        **Open Source Software**
+      
+        **Open Data**
+
+        **Open Access**
+
+        **Open Peer Review**
+
+        **Open Educational Resources**
 
 ??? Question "How do you define reproducible science?"
 
@@ -35,46 +59,46 @@ This Awesome List is compiled in the effort to help new researchers find and lea
 
         **Inferential reproducibility**: draw the same conclusions from either an independent replication of a study or a reanalysis of the original study.
 
-??? Question "How many pillars of Open Science Are There?"
+??? Question "How many pillars :material-pillar: of Open Science Are There?"
 
     Depending on what you find, the number generally ranges from 4 to 8
 
     - [Wikipedia](https://en.wikipedia.org/wiki/Open_science)
 
-    - [4 pillars](https://narratives.insidehighered.com/four-pillars-of-open-science/)
+    - [4 :material-pillar:](https://narratives.insidehighered.com/four-pillars-of-open-science/)
 
-    - [8 pillars](https://www.ucl.ac.uk/library/research-support/open-science/8-pillars-open-science)
+    - [8 :material-pillar:](https://www.ucl.ac.uk/library/research-support/open-science/8-pillars-open-science)
 
-    ??? Idea "Commonly Identified Pillars"
+    ??? Idea "Commonly Identified Pillars :material-pillar:"
 
-          **Data**
+          **:material-pillar: Data**
           
           FAIR Principles
 
           CARE Principles 
 
-          **Code**
+          **:material-pillar: Code**
 
-          **Publications**
+          **:material-pillar: Publications**
 
-          **Reviews**
+          **:material-pillar: Reviews**
 
-          **Education**
+          **:material-pillar: Education**
 
 ??? Question "What is Cloud Native Science?"
 
     [Abernathey et al. (2021)](https://doi.org/10.1109/MCSE.2021.3059437){target=_blank} propose three pillars of cloud native science
 
-    ??? "Three Pillars of Cloud Native Science"
+    ??? "Three Pillars :material-pillar: of Cloud Native Science"
     
-        **Analysis-Ready Data (ARD)**
+        **:material-pillar: Analysis-Ready Data (ARD)**
 
           also Analyisis Ready Cloud Optimized (ARCO) formats, e.g., [Cloud Optimized GeoTiff](https://cogeo.org){target=_blank}
 
-        **Data-proximate Computing**
+        **:material-pillar: Data-proximate Computing**
 
           also called server-side computing, allowing computations to happen remotely
 
-        **Scalable Distributed Computing**
+        **:material-pillar: Scalable Distributed Computing**
 
           the ability to modify the volume and number of resources used in a computational process.

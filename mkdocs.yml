@@ -13,12 +13,18 @@ copyright: 'Copyright &copy; 2022 Tyson Lee Swetnam'
 # Page tree
 nav:
   - Home: index.md
-  - Funding: funding.md
-  - Data Management Plans: dmp.md
-  - Data Repositories: data.md   
+  - Research: 
+    - Funding: funding.md
+    - Data Management Plans: dmp.md
+  - Data: data.md   
   - Search Engines: search.md
-  - Open Accesss Publishing: publishing.md
-  - Cloud: cloud.md
+  - Open Access:
+    - Publishing: publishing.md
+    - Reviews: reviews.md
+  - Distributed Computing:
+    - Cyberinfrastructure: cyberinfrastructure.md
+    - Cloud: cloud.md
+  - Software: software.md  
   - Education: edu.md 
   - Networks: networks.md
 
