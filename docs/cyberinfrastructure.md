@@ -7,17 +7,19 @@
 
 ## Open Stack Clouds
 
-[JetStream-2 ](https://jetstream-cloud.org/){target=_blank}  
+[JetStream-2 ](https://jetstream-cloud.org/){target=_blank} - US NSF funded OpenStack Cloud
 
-[CyVerse Cloud](https://cyverse.org/){target=_blank}  
+[CyVerse Cloud](https://cyverse.org/){target=_blank} - USF NSF funded OpenStack Cloud and Orchestration 
 
 ## Federated Kubernetes (K8s)  
 
-[Pacific RP](https://pacificresearchplatform.org/){target=_blank} 
+[Pacific Research Platform (PRP)](https://pacificresearchplatform.org/){target=_blank} - s a multi-institutional extensible deployment that establishes a science-driven high-capacity data-centric ‘freeway system.’ 
 
-[Data8 edX](https://data.berkeley.edu/data-8x){target=_blank} 
+- [Prototype National Research Platform](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2112167&HistoricalAwards=false) - next stage of the PRP, to be deployed across US.
 
-[NDS Labs](http://www.nationaldataservice.org/){target=_blank} -  is an experimental space for evaluating, developing, and exploring interoperability between research data management services.
+- [Nautilus](https://portal.nrp-nautilus.io/) - the PRP K8s portal
+
+[National Data Service (NDS) Labs](http://www.nationaldataservice.org/){target=_blank} -  is an experimental space for evaluating, developing, and exploring interoperability between research data management services.
 
 [2i2c](https://2i2c.org/){target=_blank} - designs, develops, and operates JupyterHubs in the cloud for communities of practice in research & education.                                 
 
