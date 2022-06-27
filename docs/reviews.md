@@ -23,6 +23,8 @@
 
 [eLife](https://elifesciences.org/){target=_blank}
 
+[F1000](https://f1000research.com/){target=_blank}
+
 [GigaScience](https://academic.oup.com/gigascience){target=_blank}
 
 [PeerJ](https://peerj.com/){target=_blank}
@@ -31,11 +33,11 @@
 
 [ReScience C](https://rescience.github.io/){target=_blank}
 
+[SciPost](https://scipost.org/){target=_blank}
+
 [Semantic Web](http://www.semantic-web-journal.net/){target=_blank} - journal by IOS Press
 
 [WikiJournal of Science](https://en.wikiversity.org/wiki/WikiJournal_of_Science){target=_blank}
-
-[SciPost](https://scipost.org/){target=_blank}
 
 ## Tutorials on Open Peer Review
 
