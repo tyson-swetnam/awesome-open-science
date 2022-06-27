@@ -3,19 +3,21 @@
 
 ## Publishers
 
-BioMed Central
+[BioMed Central](https://www.biomedcentral.com/){target=_blank}
 
-BMJ Group
+[BMJ Group](https://www.bmj.com/){target=_blank}
 
-Copernicus Publications
+[Copernicus Publications](https://publications.copernicus.org/){target=_blank}
 
-European Molecular Biology Organization (EMBO)
+[European Molecular Biology Organization (EMBO)](https://www.embo.org/){target=_blank}
 
-Frontiers
+[Frontiers](https://www.frontiersin.org/){target=_blank}
 
-MDPI - authors have the option to publish peer review reports, etc.
+[MDPI](https://www.mdpi.com/){target=_blank} - authors have the option to publish peer review reports, etc.
 
-Nature Research[23]
+[Nature Research](https://www.nature.com/nature-portfolio/editorial-policies/peer-review){target=_blank}
+
+[PLOS](https://plos.org/resource/open-peer-review/)
 
 ## Journals
 
@@ -35,4 +37,6 @@ Nature Research[23]
 
 [SciPost](https://scipost.org/){target=_blank}
 
+## Tutorials on Open Peer Review
 
+[Foster Open Science](https://www.fosteropenscience.eu/learning/open-peer-review){target=_blank}
