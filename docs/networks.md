@@ -1,6 +1,7 @@
 
-## Internationalcccccclulhjbjgnrevlrebtvivritecllebrdnklcvet
+[Open Scholarship Grassroots Community Networks](https://docs.google.com/spreadsheets/d/1LNF5_bOkRV-RLIF4HYmu-gOemIa4IdfXEer89fM-Vy8/edit#gid=847887324){target=_blank}
 
+## International
 
 [World Wide Web Consortium (W3C)](https://www.w3.org/){target=_blank}
 
@@ -18,11 +19,10 @@
 
 [Research Data Alliance (RDA)](https://www.rd-alliance.org/)
 
-## National 
-
+## National Level Working Groups
 
 [CI Compass](https://ci-compass.org/){target=_blank} - provides expertise and active support to cyberinfrastructure practitioners at USA NSF Major Facilities in order to accelerate the data lifecycle and ensure the integrity and effectiveness of the cyberinfrastructure upon which research and discovery depend.
 
-https://nzorn.netlify.app/
+[New Zealand Open Research Network](https://nzorn.netlify.app/) - New Zealand Open Research Network (NZORN) is a collection of researchers and research-associated workers in New Zealand.
 
-https://www.anzopenresearch.org/ 
+[Australia & New Zealand Open Research Network](https://www.anzopenresearch.org/) - ANZORN is a network of local networks distributed without Australia and New Zealand.
