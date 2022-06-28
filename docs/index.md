@@ -14,6 +14,7 @@ This Awesome List is compiled in the effort to help new researchers find and lea
   - [Open Peer Review](reviews.md)
   - [Cyberinfrastructure](cyberinfrastructure.md)
   - [Cloud](cloud.md)
+  - [Software](software.md)
   - [Education](edu.md) 
   - [Networks](networks.md)
 
@@ -41,7 +42,15 @@ This Awesome List is compiled in the effort to help new researchers find and lea
 
 ??? Question "How do you define reproducible science?"
 
-    ??? "Reproducibility vs Replicability"
+    ??? "Reproducibility vs Replicability by The National Academies 2019"
+
+        [National Academies Report 2019](https://www.nationalacademies.org/our-work/reproducibility-and-replicability-in-science){target=_blank}
+
+        **Reproducibility** means computational reproducibility—obtaining consistent computational results using the same input data, computational steps, methods, code, and conditions of analysis. 
+
+        **Replicability** means obtaining consistent results across studies aimed at answering the same scientific question, each of which has obtained its own data. 
+
+    ??? "Reproducibility vs Replicability by Plesser (2018)"
 
         In [Reproducibility vs. Replicability](https://doi.org/10.3389%2Ffninf.2017.00076){target=_blank}, Hans Plesser gives the following useful definitions:
 
@@ -63,11 +72,11 @@ This Awesome List is compiled in the effort to help new researchers find and lea
 
     Depending on what you find, the number generally ranges from 4 to 8
 
-    - [Wikipedia](https://en.wikipedia.org/wiki/Open_science)
+    - [Wikipedia](https://en.wikipedia.org/wiki/Open_science){target=_blank}
 
-    - [4 :material-pillar:](https://narratives.insidehighered.com/four-pillars-of-open-science/)
+    - [4 :material-pillar:](https://narratives.insidehighered.com/four-pillars-of-open-science/){target=_blank}
 
-    - [8 :material-pillar:](https://www.ucl.ac.uk/library/research-support/open-science/8-pillars-open-science)
+    - [8 :material-pillar:](https://www.ucl.ac.uk/library/research-support/open-science/8-pillars-open-science){target=_blank}
 
     ??? Idea "Commonly Identified Pillars :material-pillar:"
 
@@ -102,3 +111,39 @@ This Awesome List is compiled in the effort to help new researchers find and lea
         **:material-pillar: Scalable Distributed Computing**
 
           the ability to modify the volume and number of resources used in a computational process.
+
+### Diagrams
+
+``` mermaid
+flowchart LR
+
+id1([open science]) --> id3([open publishing]) & id4([open data]) & id5([open tools])
+
+id3([open publishing]) --> id41([open access]) & id42([open reviews])
+
+id5([open tools]) --> id8([open repositories]) & id10([open services]) & id11([open workflows])
+
+id8([open repositories]) --> id12([version control]) & id13([container registries])
+
+id12([version control]) --> id101([compute])
+
+id13([container registries]) --> id101([compute])
+
+id14([public data registry]) --> id101([compute])
+
+id10([open services]) --> id101([compute]) 
+
+id11([open workflows]) --> id101([compute]) 
+
+id4([open data]) --> id14([public data registry])
+
+id101([compute]) <--> id15([on-prem]) & id16([commercial cloud]) & id17([public cloud])
+
+id15([On-Prem]) <--> id20([open resources])
+
+id16([Commercial Cloud]) <--> id20([open resources]) 
+
+id17([Public Clouds]) <--> id20([open resources]) 
+```
+
+Figure: Hypothetical flow of open science tools

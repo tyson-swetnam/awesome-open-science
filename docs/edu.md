@@ -2,6 +2,8 @@
 
 [The Carpentries](https://carpentries.org/){target=_blank} - teaches foundational coding and data science skills to researchers worldwide.  
 
+[EdX](https://www.edx.org/) - 
+
 [EveryoneOn](https://www.everyoneon.org/ ){target=_blank} - mission is to unlock opportunity by connecting families in underserved communities to affordable internet service and computers, and delivering digital skills trainings. 
 
 - [ConnectHomeUSA](https://connecthomeusa.org/){target=_blank} - is a movement to bridge the digital divide for HUD-assisted housing residents in the United States under the leadership of national nonprofit EveryoneOn.
@@ -29,6 +31,7 @@
 ## Open Scientists & Educators
 
 [Qiusheng Wu](https://github.com/giswqs)
+
 - [Awesome GEE]()
 
 [Samapriya Roy]()
