@@ -3,21 +3,23 @@
 
 ## International
 
-[World Wide Web Consortium (W3C)](https://www.w3.org/){target=_blank}
-
-[Open Science Network](https://www.opensciencenetwork.org/){target=_blank}
+[Center for Scientific Collaboration and Community Engagement (CSCCE)](https://www.cscce.org/){target=_blank}
 
 [Center for Open Science (COS)](https://www.cos.io/){target=_blank}
 
-[Open Science Foundation](https://osf.io/){target=_blank}
-
-[Eclipse Science Working Group](https://science.eclipse.org/)
+[Eclipse Science Working Group](https://science.eclipse.org/){target=_blank}
 
 [eLife](https://elifesciences.org/){target=_blank}
 
-[NumFocus](https://numfocus.org/)
+[NumFocus](https://numfocus.org/){target=_blank}
 
-[Research Data Alliance (RDA)](https://www.rd-alliance.org/)
+[Open Science Foundation](https://osf.io/){target=_blank}
+
+[Open Science Network](https://www.opensciencenetwork.org/){target=_blank}
+
+[Research Data Alliance (RDA)](https://www.rd-alliance.org/){target=_blank}
+
+[World Wide Web Consortium (W3C)](https://www.w3.org/){target=_blank}
 
 ## National Level Working Groups
 
