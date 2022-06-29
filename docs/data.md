@@ -21,6 +21,8 @@
 
 ## Data Repositories
 
+[Open Access Directory](http://oad.simmons.edu/oadwiki/Data_repositories){target=_blank} - curated list of open data repositories
+
 [EDUAT](https://www.eudat.eu/){target=_blank} – network of European research organizations.
 
 [Harvard Dataverse](https://dataverse.harvard.edu/){target=_blank} – offers free storage of research data, owned by Harvard
