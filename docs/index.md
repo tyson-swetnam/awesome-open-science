@@ -44,7 +44,7 @@ This Awesome List is compiled in the effort to help new researchers find and lea
 
 ??? Question "How do you define reproducible science?"
 
-    ??? "Reproducibility vs Replicability by The National Academies 2019"
+    ??? "Reproducibility and Replicability in Science by The National Academies 2019"
 
         [National Academies Report 2019](https://www.nationalacademies.org/our-work/reproducibility-and-replicability-in-science){target=_blank}
 
