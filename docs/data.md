@@ -18,6 +18,19 @@
 
 [Open Source Initiative Licenses](https://opensource.org/licenses){target=_blank}
 
+## Accessibility
+
+[W3 ARIA Suite](https://w3c.github.io/aria/) - Accessible Rich Internet Applications (ARIA)
+
+[Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
+
+[WIA-ARIA](https://www.w3.org/WAI/standards-guidelines/aria/)
+
+[Mozilla ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+
+[NVDA](https://www.nvaccess.org/download/) - screen reading software
+
+[JAWS](https://support.freedomscientific.com/Downloads/JAWS) - screen reading software
 
 ## Data Repositories
 
