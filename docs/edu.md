@@ -24,7 +24,9 @@
 
 ## Materials
 
-[DigitalLearn](https://www.digitallearn.org/){}
+[Teach Together](https://teachtogether.tech/en/index.html#){target=_blank} by Greg Wilson
+
+[DigitalLearn](https://www.digitallearn.org/){target=_blank}
 
 ## Courses
 
