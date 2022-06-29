@@ -24,7 +24,9 @@ This Awesome List is compiled in the effort to help new researchers find and lea
 
     [Wikipedia definition](https://en.wikipedia.org/wiki/Open_science){target=_blank}
 
-    [UNESCO definition](https://www.unesco.org/en/natural-sciences/open-science)
+    [UNESCO definition](https://www.unesco.org/en/natural-sciences/open-science){target=_blank}
+    
+    [Open Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/){target=_blank}
 
     ??? "Six Pillars :material-pillar: of Open Science"
 
