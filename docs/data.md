@@ -90,7 +90,15 @@
 
 ## :material-tractor-variant: Agricultural Data Repositories
 
+[Data.World Data List](https://data.world/datasets/agriculture){target=_blank}
+
 [USDA Ag Data Commons](https://data.nal.usda.gov/){target=_blank} - US Department of Agriculture data commons providing central access to USDA's Open Research Data
+
+[USDA Forest Service Data Clearinghouse](https://data.fs.usda.gov/geodata/edw/index.php){target=_blank}
+
+[USDA Forest Service ArcGIS Data](https://data-usfs.hub.arcgis.com/){target=_blank}
+
+[World Bank Ag Data](https://data.worldbank.org/indicator){target=_blank}
 
 ## :material-dna: Biological Data Repositories
 
@@ -109,6 +117,8 @@
 [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/){target=_blank}
 
 ## US Government Data 
+
+[GeoPlatform.gov](https://www.geoplatform.gov/){target=_blank}
 
 [US Government Public Data](https://data.gov/){target=_blank}
 
@@ -152,7 +162,9 @@
 
 ## Public Data Sets
 
-[OpenStreetMap](https://www.openstreetmap.org/){target=_blank}
+[OpenStreetMap (OSM)](https://www.openstreetmap.org/){target=_blank}
+
+[OSM US Forest Service](https://wiki.openstreetmap.org/wiki/US_Forest_Service_Data)
 
 ## Standards
 
