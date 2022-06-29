@@ -33,6 +33,30 @@
 
 [:material-microscope: Registry of Research Data Repositories](https://www.re3data.org/){target=_blank}
 
+## Protocols and Bench Techniques
+
+[BioProtocol](https://bio-protocol.org/Default.aspx){target=_blank}
+
+[Current Protocols](https://currentprotocols.onlinelibrary.wiley.com/)
+
+[Gold Biotechnology Protocol list](https://www.goldbio.com/search?q=&type=documentation&documentation_type=protocol){target=_blank}
+
+[JoVE](https://www.jove.com/){target=_blank} - Journal of Visualized Experiments
+
+[Nature Protocols](https://www.nature.com/nprot/){target=_blank}
+
+[OpenWetWare](https://openwetware.org/wiki/Main_Page){target=_blank}
+
+[Protocol Exchange](https://protocolexchange.researchsquare.com/){target=_blank}
+
+[Protocols Online](http://www.protocol-online.org/prot/){target=_blank}
+
+[:material-microscope: Protocols](https://www.protocols.io/){target=_blank}
+
+[SciGene](http://scigine.com/blog/){target=_blank}
+
+[Springer Nature Experiments](https://experiments.springernature.com/){target=_blank}
+
 ## Software & Code Repositories
 
 [:material-github: GitHub](https://github.com){target=_blank} - most widely used version control platform for software and code development.
