@@ -126,6 +126,8 @@
 
 [:material-language-r: TidyVerse](https://www.tidyverse.org/){target=_blank}
 
+[:material-language-python: Python for GIS](https://ecosystem.pythongis.org/){target=_blank}
+
 ## :octicons-container-24: Containers
 
 [:fontawesome-brands-octopus-deploy: Argo Workflows](https://argoproj.github.io/argo-workflows/){target=_blank} -  is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes.
