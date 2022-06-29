@@ -13,6 +13,8 @@
 
 [Frontiers](https://www.frontiersin.org/){target=_blank}
 
+[Gates Open Research](https://gatesopenresearch.org/){target=_blank}
+
 [MDPI](https://www.mdpi.com/){target=_blank} - authors have the option to publish peer review reports, etc.
 
 [Nature Research](https://www.nature.com/nature-portfolio/editorial-policies/peer-review){target=_blank}
