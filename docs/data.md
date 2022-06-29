@@ -16,9 +16,9 @@
 
 ## Regulations
 
-[European General Data Protection (GDPR)](https://gdpr-info.eu/)
+[European General Data Protection (GDPR)](https://gdpr-info.eu/){target=_blank}
 
-[US HIPAA](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html)
+[US HIPAA](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html){target=_blank}
 
 ## Licenses
 
@@ -28,17 +28,17 @@
 
 ## Accessibility
 
-[W3 ARIA Suite](https://w3c.github.io/aria/) - Accessible Rich Internet Applications (ARIA)
+[W3 ARIA Suite](https://w3c.github.io/aria/){target=_blank} - Accessible Rich Internet Applications (ARIA)
 
-[Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
+[Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/){target=_blank}
 
-[WIA-ARIA](https://www.w3.org/WAI/standards-guidelines/aria/)
+[WIA-ARIA](https://www.w3.org/WAI/standards-guidelines/aria/){target=_blank}
 
-[Mozilla ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+[Mozilla ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA){target=_blank}
 
-[NVDA](https://www.nvaccess.org/download/) - screen reading software
+[NVDA](https://www.nvaccess.org/download/){target=_blank} - screen reading software
 
-[JAWS](https://support.freedomscientific.com/Downloads/JAWS) - screen reading software
+[JAWS](https://support.freedomscientific.com/Downloads/JAWS){target=_blank} - screen reading software
 
 ## Data Repositories
 
