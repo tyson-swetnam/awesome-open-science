@@ -43,28 +43,6 @@
 
 [Apache SubVersion](https://subversion.apache.org/){target=_blank}
 
-## Protocols and Bench Techniques
-
-[BioProtocol](https://bio-protocol.org/Default.aspx){target=_blank}
-
-[Gold Biotechnology Protocol list](https://www.goldbio.com/search?q=&type=documentation&documentation_type=protocol){target=_blank}
-
-[JoVE](https://www.jove.com/){target=_blank} - Journal of Visualized Experiments
-
-[Nature Protocols](https://www.nature.com/nprot/){target=_blank}
-
-[OpenWetWare](https://openwetware.org/wiki/Main_Page){target=_blank}
-
-[Protocol Exchange](https://protocolexchange.researchsquare.com/){target=_blank}
-
-[Protocols Online](http://www.protocol-online.org/prot/){target=_blank}
-
-[:material-microscope: Protocols](https://www.protocols.io/){target=_blank}
-
-[SciGene](http://scigine.com/blog/){target=_blank}
-
-[Springer Nature Experiments](https://experiments.springernature.com/){target=_blank}
-
 ## :material-tractor-variant: Agricultural Data Repositories
 
 [USDA Ag Data Commons](https://data.nal.usda.gov/){target=_blank} - US Department of Agriculture data commons providing central access to USDA's Open Research Data
