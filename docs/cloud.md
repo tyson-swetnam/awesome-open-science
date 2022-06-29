@@ -1,3 +1,9 @@
+## Management Services
+
+[CloudBank](https://www.cloudbank.org/){target=_blank} - US National Science Foundation commercial cloud service for helping manage and spend public research $ without overhead cost on the award.
+
+[NIH Strides](https://cloud.nih.gov/) - funding mechanism for commercial cloud using NIH money
+
 ## Commercial Cloud Credits
 
 [AWS Cloud Credit for Research](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/){target=_blank}
@@ -6,11 +12,17 @@
 
 [Microsoft Azure Research Credits](https://www.microsoft.com/en-us/azure-academic-research/){target=_blank}
 
-## Run your own Cloud
+## Open Cloud Software
 
 [OpenStack](https://www.openstack.org/){target=_blank} - the most widely deployed open source cloud software in the world
 
-### Build your own Hardware
+## Public Open Stack Clouds
+
+[JetStream-2 ](https://jetstream-cloud.org/){target=_blank} - US NSF funded OpenStack Cloud for research and education.
+
+[CyVerse Cloud](https://cyverse.org/){target=_blank} - USF NSF funded OpenStack Cloud and Orchestration cyberinfrastructure service
+
+### Build your own Cloud 
 
 Buy your own hardware
 

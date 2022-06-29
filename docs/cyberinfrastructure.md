@@ -1,16 +1,4 @@
 
-## Management Services
-
-[CloudBank](https://www.cloudbank.org/){target=_blank} - US National Science Foundation commercial cloud service for helping manage and spend public research $ without overhead cost on the award.
-
-[NIH Strides](https://cloud.nih.gov/) - funding mechanism for commercial cloud using NIH money
-
-## Open Stack Clouds
-
-[JetStream-2 ](https://jetstream-cloud.org/){target=_blank} - US NSF funded OpenStack Cloud
-
-[CyVerse Cloud](https://cyverse.org/){target=_blank} - USF NSF funded OpenStack Cloud and Orchestration 
-
 ## Federated Kubernetes (K8s)  
 
 [Pacific Research Platform (PRP)](https://pacificresearchplatform.org/){target=_blank} - s a multi-institutional extensible deployment that establishes a science-driven high-capacity data-centric ‘freeway system.’ 
