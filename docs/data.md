@@ -104,7 +104,7 @@
 
 [Earth on AWS](https://aws.amazon.com/earth/){target=_blank} - The Registry of Open Data on AWS helps you discover and share datasets that are available via AWS resources. 
 
-[Google Earth Engine](https://earthengine.google.com/){target=_blank}
+[Google Earth Engine](https://earthengine.google.com/noncommercial/){target=_blank}
 
 [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/){target=_blank}
 
@@ -121,6 +121,8 @@
 ## EU Government Data
 
 [European Space Agency Data](https://earth.esa.int/eogateway){target=_blank}
+
+[Copernicus Climate Data Store](https://cds.climate.copernicus.eu/#!/home){target=_blank}
 
 ## :material-leaf: Ecological Research Data Repositories
 
