@@ -52,7 +52,10 @@
 
 [Dryad](https://datadryad.org){target=_blank} – started as US NSF project, used for data sets of any type that correspond to a research paper. 
 
-[:material-microscope: Registry of Research Data Repositories](https://www.re3data.org/){target=_blank}
+[Registry of Research Data Repositories](https://www.re3data.org/){target=_blank}
+
+
+[PLOS Recommended Repositories](https://journals.plos.org/plosgenetics/s/recommended-repositories){target=_blank}
 
 ## Protocols and Bench Techniques
 
@@ -90,7 +93,11 @@
 
 ## :material-tractor-variant: Agricultural Data Repositories
 
+[Berkeley Library Agricultural and Resource Economics](https://guides.lib.berkeley.edu/ARE/finddata)
+
 [Data.World Data List](https://data.world/datasets/agriculture){target=_blank}
+
+[Farmers.gov](https://www.farmers.gov/data)
 
 [USDA Ag Data Commons](https://data.nal.usda.gov/){target=_blank} - US Department of Agriculture data commons providing central access to USDA's Open Research Data
 
@@ -107,6 +114,8 @@
 [Global Biodiversity Information Facility](https://www.gbif.org/){target=_blank}
 
 [National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/){target=_blank}
+
+[NIHM](https://www.nimhgenetics.org/){target=_blank}
 
 ## Public Data on Commercial Cloud
 
