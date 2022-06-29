@@ -11,6 +11,14 @@
     [Carroll et al. (2020)](http://doi.org/10.5334/dsj-2020-043){target=_blank} established the CARE Principles for Indigenous Data Governance. 
 
     [full document :fontawesome-solid-file-pdf:](https://static1.squarespace.com/static/5d3799de845604000199cd24/t/5da9f4479ecab221ce848fb2/1571419335217/CARE+Principles_One+Pagers+FINAL_Oct_17_2019.pdf){target=_blank}
+    
+    [US Indigenous Data Sovereignty Network](https://usindigenousdata.org/){target=_blank}
+
+## Regulations
+
+[European General Data Protection (GDPR)](https://gdpr-info.eu/)
+
+[US HIPAA](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html)
 
 ## Licenses
 
