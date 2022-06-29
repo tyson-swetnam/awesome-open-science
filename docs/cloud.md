@@ -2,7 +2,7 @@
 
 [CloudBank](https://www.cloudbank.org/){target=_blank} - US National Science Foundation commercial cloud service for helping manage and spend public research $ without overhead cost on the award.
 
-[NIH Strides](https://cloud.nih.gov/) - funding mechanism for commercial cloud using NIH money
+[NIH Strides](https://cloud.nih.gov/){target=_blank} - funding mechanism for commercial cloud using NIH money
 
 ## Commercial Cloud Credits
 
