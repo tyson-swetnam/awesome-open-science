@@ -54,8 +54,7 @@ Buy your own hardware
 
 [European Open Science Cloud](https://eosc-portal.eu/){target=_blank}
 
-
-[](){target=_blank}
+[openEO Platform](https://openeo.cloud/){target=_blank}
 
 ### Australia :flag_au:  & New Zealand :flag_nz:
 
