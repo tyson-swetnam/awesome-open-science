@@ -24,6 +24,7 @@ nav:
   - Distributed Computing:
     - Cyberinfrastructure: cyberinfrastructure.md
     - Cloud: cloud.md
+  - Hardware: hardware.md
   - Software: software.md  
   - Education: edu.md 
   - Networks: networks.md
