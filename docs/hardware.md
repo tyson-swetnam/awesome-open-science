@@ -1,4 +1,4 @@
-## Creating your own hardware
+## Build your own hardware
 
 [Arduino](https://www.arduino.cc/){target=_blank}
 
