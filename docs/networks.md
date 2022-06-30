@@ -23,9 +23,15 @@
 
 ## National Level Working Groups
 
+### US
+
 [CI Compass](https://ci-compass.org/){target=_blank} - provides expertise and active support to cyberinfrastructure practitioners at USA NSF Major Facilities in order to accelerate the data lifecycle and ensure the integrity and effectiveness of the cyberinfrastructure upon which research and discovery depend.
 
 [Internet2](https://internet2.edu/) - is a community providing cloud solutions, research support, and services tailored for Research and Education. 
+
+[Minority Serving Cyberinfrastructure Consortium (MS-CC](https://www.ms-cc.org/) envisions a transformational partnership to promote advanced cyberinfrastructure (CI) capabilities on the campuses of Historically Black Colleges and Universities (HBCUs), Hispanic-Serving Institutions (HSIs), Tribal Colleges and Universities (TCUs), and other Minority Serving Institutions (MSIs). 
+
+### Oceania
 
 [New Zealand Open Research Network](https://nzorn.netlify.app/) - New Zealand Open Research Network (NZORN) is a collection of researchers and research-associated workers in New Zealand.
 
