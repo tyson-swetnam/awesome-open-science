@@ -4,6 +4,8 @@
 
 [Makerbot Thingiverse](https://www.thingiverse.com/){target=_blank}
 
+[Open Hardware Space](https://openhardware.space/){target=_blank}
+
 [OpenSource.com 3D-Printing](https://opensource.com/tags/3d-printing){target=_blank}
 
 [Open Source Lab](https://reprap.org/wiki/Open_Source_Lab){target=_blank}
