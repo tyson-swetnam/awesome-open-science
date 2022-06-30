@@ -28,6 +28,8 @@
 
 [Federated Research Data Repository (FRDR)](https://www.frdr-dfdr.ca/repo/){target=_blank}
 
+## Research Clouds
+
 ### USA :flag_us:
 
 [NSF CloudBank](https://www.cloudbank.org/){target=_blank}
