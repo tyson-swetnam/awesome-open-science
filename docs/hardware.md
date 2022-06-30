@@ -1,18 +1,26 @@
-## Build your own hardware
+## Open Source Hardware
 
 [Arduino](https://www.arduino.cc/){target=_blank}
 
-[Makerbot Thingiverse](https://www.thingiverse.com/){target=_blank}
-
 [Open Hardware Space](https://openhardware.space/){target=_blank}
-
-[OpenSource.com 3D-Printing](https://opensource.com/tags/3d-printing){target=_blank}
 
 [Open Source Lab](https://reprap.org/wiki/Open_Source_Lab){target=_blank}
 
+[Raspberry Pi Foundation](https://opensource.com/tags/3d-printing){target=_blank}
+
+## 3D Printing
+
+[Makerbot Thingiverse](https://www.thingiverse.com/){target=_blank}
+
+[OpenSource.com 3D-Printing](https://opensource.com/tags/3d-printing){target=_blank}
+
 [NIH 3D Print Exchange](https://3dprint.nih.gov/){target=_blank}
 
-[Raspberry Pi Foundation](https://opensource.com/tags/3d-printing){target=_blank}
+## On-Premises Cloud
+
+[Giga.io](https://gigaio.com/){target=_blank}
+
+[Open Storage Network](https://www.openstoragenetwork.org/){target=_blank}
 
 ## Internet of Things (IoT)
 
