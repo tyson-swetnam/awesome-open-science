@@ -22,16 +22,6 @@
 
 [CyVerse Cloud](https://cyverse.org/){target=_blank} - USF NSF funded OpenStack Cloud and Orchestration cyberinfrastructure service
 
-### Build your own Cloud 
-
-Buy your own hardware
-
-[Giga.io](https://gigaio.com/){target=_blank}
-
-[Open Storage Network](https://www.openstoragenetwork.org/){target=_blank}
-
-## National Cloud resources for research
-
 ### Canada :flag_ca:
 
 [Compute Canada](https://www.computecanada.ca/){target=_blank}
