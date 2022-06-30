@@ -14,6 +14,7 @@ This Awesome List is compiled in the effort to help new researchers find and lea
   - [Open Peer Review](reviews.md)
   - [Cyberinfrastructure](cyberinfrastructure.md)
   - [Cloud](cloud.md)
+  - [Hardware](hardware.md)
   - [Software](software.md)
   - [Education](edu.md) 
   - [Networks](networks.md)
