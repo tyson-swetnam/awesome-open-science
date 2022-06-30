@@ -6,6 +6,10 @@
 
 ## :material-flask: Scientific Support Systems
 
+[Center for Open Science](https://www.cos.io/){target=_blank}
+ 
+- [Open Science Framework](https://osf.io/){target=_blank}
+
 [Digital Object Identifier (DOI) Org](https://doi.org){target=_blank} - is the registration authority for the ISO standard (ISO 26324) for the DOI system. The DOI system provides a technical and social infrastructure for the registration and use of persistent interoperable identifiers, called DOIs, for use on digital networks.
 
 [:fontawesome-brands-orcid: ORCID](https://orcid.org/){target=_blank} - unique digital ID for every researcher
