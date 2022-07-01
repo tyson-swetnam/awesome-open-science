@@ -24,7 +24,7 @@
 
 [Amazon Science](https://www.amazon.science/tag/knowledge-graphs){target=_blank}
 
-## :material-search-web: Literature && Document Search
+## :material-search-web: Literature & Document Search
 
 [:material-google: Google Scholar](https://scholar.google.com/intl/en/scholar/about.html){target=_blank} - based on Google's powerful knowledge graph
 
