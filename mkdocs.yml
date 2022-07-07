@@ -14,7 +14,7 @@ copyright: 'Copyright &copy; 2022 Tyson Lee Swetnam'
 nav:
   - Home: index.md
   - Research: 
-    - Funding: funding.md
+    - Funding Opportunities: funding.md
     - Data Management Plans: dmp.md
   - Data: data.md   
   - Search Engines: search.md
