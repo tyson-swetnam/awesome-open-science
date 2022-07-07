@@ -6,7 +6,7 @@ This Awesome List is compiled in the effort to help new researchers find and lea
 
 ## Contents
 
-  - [Funding](funding.md)
+  - [Funding Opportunities](funding.md)
   - [Data Management Plans](dmp.md)
   - [Data](data.md) 
   - [Search Engines](search.md)
