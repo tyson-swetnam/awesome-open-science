@@ -11,6 +11,8 @@
 
 ## :fontawesome-solid-earth-americas: United States 
 
+[Grant Explorer (App)](https://www.grantexplorer.org/){target=_blank} - view history of funded projects from NSF, NIH, and DoD
+
 [National Science Foundation (NSF)](https://nsf.gov){target=_blank}
 
 [National Institutes of Health (NIH)](https://www.nih.gov/grants-funding){target=_blank}
