@@ -158,6 +158,8 @@
 
 [:octicons-markdown-16: HackMD](https://hackmd.io){target=_blank} - online markdown editor.
 
+[:octicons-markdown-16: JupyterBook](https://jupyterbook.org/en/stable/intro.html){target=_blank} - create documentation using Jupyter Notebooks and Markdown
+
 [:octicons-markdown-16: MkDocs](https://www.mkdocs.org/){target=_blank} - is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation.
 
 [:material-feather: LaTeX](https://www.latex-project.org/){target=_blank} -  is a high-quality typesetting system
