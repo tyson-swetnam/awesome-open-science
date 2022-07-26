@@ -46,6 +46,10 @@
 
 [Julia](https://julialang.org/){target=_blank} -  is a high-level, high-performance, dynamic programming language.
 
+[Make](https://www.freebsd.org/cgi/man.cgi?query=make) - is a build automation tool that automatically builds executable programs and libraries from source code by reading files called Makefiles which specify how to derive the target program.
+
+[CMake](https://cmake.org/) - is an open-source, cross-platform family of tools designed to build, test and package software. 
+
 [PERL](https://www.perl.org/){target=_blank} - is a family of two high-level, general-purpose, interpreted, dynamic programming languages. 
 
 [:material-language-python: Python](https://www.python.org/){target=_blank} - is a high-level, interpreted, general-purpose programming language. 
