@@ -54,7 +54,6 @@
 
 [Registry of Research Data Repositories](https://www.re3data.org/){target=_blank}
 
-
 [PLOS Recommended Repositories](https://journals.plos.org/plosgenetics/s/recommended-repositories){target=_blank}
 
 ## Protocols and Bench Techniques
