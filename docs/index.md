@@ -25,7 +25,9 @@ This Awesome List is compiled in the effort to help new researchers find and lea
 
     [Wikipedia definition](https://en.wikipedia.org/wiki/Open_science){target=_blank}
 
-    [UNESCO definition](https://www.unesco.org/en/natural-sciences/open-science){target=_blank}
+    [UNESCO Recommendatio non Open Science](https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en){target=_blank}
+    
+     - [UNESCO Definition](https://www.unesco.org/en/natural-sciences/open-science){target=_blank}
     
     [Open Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/){target=_blank}
 
