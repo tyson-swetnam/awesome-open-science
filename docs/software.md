@@ -150,6 +150,26 @@
 
 [:material-terraform: Terraform (HashiCorp)](https://www.terraform.io/){target=_blank}
 
+### Container Registries
+
+[:material-docker: Docker Hub](https://hub.docker.com/){target=_blank} - Official Images for Docker 
+
+[:material-aws: Amazon Elastic Container Registry](https://aws.amazon.com/ecr/){target=_blank} - run containers on AWS 
+
+[:material-google-cloud: Google Container Registry](https://cloud.google.com/container-registry){target=_blank} - run containers on Google Cloud  
+
+[:material-microsoft-azure: Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/){target=_blank} - run containers on Azure 
+
+[:material-graph: NVIDIA GPU Cloud](https://www.nvidia.com/en-us/gpu-cloud/){target=_blank} - containers for GPU computing 
+
+[:material-github: GitHub Container Registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry){target=_blank} - managed containers on GitHub
+
+[:material-gitlab: GitLab Container Registry](https://docs.gitlab.com/ee/user/packages/container_registry/){target=_blank} - managed containers on GitLab 
+
+[:material-redhat: RedHat Quay.io](https://cloud.redhat.com/products/quay){target=_blank} - containers managed by RedHat 
+
+[:material-dna: BioContainers Registry](https://biocontainers.pro/){target=_blank} - bioinformatics containers
+
 ## Productivity Software
 
 [:material-shield-key: CryptPad](https://cryptpad.fr/){target=_blank} - online rich text pad. 
