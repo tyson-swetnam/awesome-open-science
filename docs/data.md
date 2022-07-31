@@ -122,6 +122,8 @@
 
 [Google Earth Engine](https://earthengine.google.com/noncommercial/){target=_blank}
 
+[Microsoft AI for Earth Datasets](https://github.com/microsoft/AIforEarthDataSets){target=_blank}
+
 [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/){target=_blank}
 
 ## US Government Data 
