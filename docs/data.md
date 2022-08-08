@@ -14,6 +14,10 @@
     
     [US Indigenous Data Sovereignty Network](https://usindigenousdata.org/){target=_blank}
 
+## Data Use Agreements
+
+[MIT model data use agreements ](https://admindatahandbook.mit.edu/book/v1.0-rc4/dua.html){target=_blank}
+
 ## Regulations
 
 [European General Data Protection (GDPR)](https://gdpr-info.eu/){target=_blank}
