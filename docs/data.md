@@ -24,9 +24,11 @@
 
 [US HIPAA](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html){target=_blank}
 
-## Licenses
+## License Types
 
 [Creative Commons Licenses](https://creativecommons.org/licenses/){target=_blank}
+
+[Open Datacommons](https://opendatacommons.org/){target=_blank}
 
 [Open Source Initiative Licenses](https://opensource.org/licenses){target=_blank}
 
