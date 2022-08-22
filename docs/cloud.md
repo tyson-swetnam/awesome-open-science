@@ -32,6 +32,8 @@
 
 ### USA :flag_us:
 
+[Chameleon Cloud](https://www.chameleoncloud.org/){target=_blank}
+
 [NSF CloudBank](https://www.cloudbank.org/){target=_blank}
 
 [XSEDE](https://www.xsede.org/){target=_blank} - US NSF Advanced Cyberinfrastructure funded program for connecting the ecosystem of Major Facilities
