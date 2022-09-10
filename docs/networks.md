@@ -21,7 +21,13 @@
 
 [Open Science Network](https://www.opensciencenetwork.org/){target=_blank}
 
+[pyOpenSci](https://www.pyopensci.org/){target=_blank}
+
+[R OpenSci](https://ropensci.org/){target=_blank}
+
 [Research Data Alliance (RDA)](https://www.rd-alliance.org/){target=_blank}
+
+[The Turing Way](https://the-turing-way.netlify.app/welcome){target=_blank}
 
 [UNESCO Global Open Science Partnership](https://en.unesco.org/science-sustainable-future/open-science/partnership){target=_blank}
 
@@ -42,6 +48,8 @@
 [Minority Serving Cyberinfrastructure Consortium (MS-CC)](https://www.ms-cc.org/){target=_blank} envisions a transformational partnership to promote advanced cyberinfrastructure (CI) capabilities on the campuses of Historically Black Colleges and Universities (HBCUs), Hispanic-Serving Institutions (HSIs), Tribal Colleges and Universities (TCUs), and other Minority Serving Institutions (MSIs). 
 
 [NASA Transform to Open Science (TOPS)](https://github.com/nasa/Transform-to-Open-Science){target=_blank} - coordinates efforts designed to rapidly transform agencies, organizations, and communities for Earth Science
+
+[The Quilt](https://www.thequilt.net/){target=_blank} - non-profit regional research and education networks collaborate to develop, deploy and operate advanced cyberinfrastructure that enables innovation in research and education.
 
 ### Oceania
 
