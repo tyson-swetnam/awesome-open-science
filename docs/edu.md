@@ -17,6 +17,8 @@
 
 [Net Literacy](https://www.netliteracy.org/){target=_blank}
 
+[Open Educational Resources Commons](https://www.oercommons.org/){target=_blank}
+
 [Project Pythia](https://projectpythia.org/){target=_blank} is the education working group for Pangeo and is an educational resource for the entire geoscience community. 
 
 [Research Bazaar](https://resbaz.github.io/resbaz2021/){target=_blank} - is a worldwide festival promoting the digital literacy emerging at the centre of modern research.
