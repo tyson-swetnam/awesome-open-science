@@ -1,7 +1,6 @@
 bump2version
 coverage
 flake8
-git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
 grip
 ipykernel
 livereload
