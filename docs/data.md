@@ -48,19 +48,44 @@
 
 ## Data Repositories
 
-[Open Access Directory](http://oad.simmons.edu/oadwiki/Data_repositories){target=_blank} - curated list of open data repositories
-
-[EDUAT](https://www.eudat.eu/){target=_blank} – network of European research organizations.
-
-[Harvard Dataverse](https://dataverse.harvard.edu/){target=_blank} – offers free storage of research data, owned by Harvard
-
-[Zenodo](https://zenodo.org/){target=_blank} – EU-funded project by OpenAire, it is hosted by CERN. Useful for EU-funded projects because reports back to the EU research Participant Portal.
+[Nature Scientific Data Repositories - Recommended](https://www.nature.com/sdata/policies/repositories){target=_blank} - metalist of data repositories recommended for Nature science articles
 
 [Dryad](https://datadryad.org){target=_blank} – started as US NSF project, used for data sets of any type that correspond to a research paper. 
 
-[Registry of Research Data Repositories](https://www.re3data.org/){target=_blank}
+[EBRAINS](https://ebrains.eu/){target=_blank}
+
+[EDUAT](https://www.eudat.eu/){target=_blank} – network of European research organizations.
+
+[Figshare](https://figshare.com/){target=_blank}
+
+[GitHub](https://github.com){target=_blank}
+
+[G-Node](https://www.g-node.org/) - German Neuroinformatics Node
+
+[Harvard Dataverse](https://dataverse.harvard.edu/){target=_blank} – offers free storage of research data, owned by Harvard
+
+[Mendeley Data](https://data.mendeley.com/){target=_blank}
+
+[NITRC](https://www.nitrc.org/){target=_blank} - Neuroimaging Informatics Tools and Resources Collaboratory
+
+[NeuroLibre](https://www.neurolibre.org/){target=_blank}
+
+[Open Access Directory](http://oad.simmons.edu/oadwiki/Data_repositories){target=_blank} - curated list of open data repositories
+
+[OpenNeuro](https://openneuro.org/){target=_blank}
+
+[Open Science Framework](https://osf.io){target=_blank}
 
 [PLOS Recommended Repositories](https://journals.plos.org/plosgenetics/s/recommended-repositories){target=_blank}
+
+[PrePubMed](http://www.prepubmed.org/)
+
+[Registry of Research Data Repositories](https://www.re3data.org/){target=_blank}
+
+[The Winnower](https://thewinnower.com/){target=_blank}
+
+[Zenodo](https://zenodo.org/){target=_blank} – EU-funded project by OpenAire, it is hosted by CERN. Useful for EU-funded projects because reports back to the EU research Participant Portal.
+
 
 ## Protocols and Bench Techniques
 
