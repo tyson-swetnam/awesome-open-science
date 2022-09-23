@@ -132,9 +132,11 @@
 
 [:material-language-python: PanGeo](https://pangeo.io/){target=_blank}
 
+[:material-language-python: Python for GIS](https://ecosystem.pythongis.org/){target=_blank}
+
 [:material-language-r: TidyVerse](https://www.tidyverse.org/){target=_blank}
 
-[:material-language-python: Python for GIS](https://ecosystem.pythongis.org/){target=_blank}
+[material-language-r: R-Universe](https://r-universe.dev/search/){target=_blank}
 
 ## :octicons-container-24: Containers
 
