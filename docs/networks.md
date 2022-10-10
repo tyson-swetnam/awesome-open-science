@@ -1,3 +1,14 @@
+# Team Science
+
+[Team Science](https://www.nationalacademies.org/our-work/the-science-of-team-science){target=_blank} "is a new interdisciplinary field that empirically examines the processes by which large and small scientific teams, research centers, and institutes organize, communicate, and conduct research."
+
+[:simple-wikipedia: Team Science Definition](https://en.wikipedia.org/wiki/Science_of_team_science){target=_blank}
+
+[COALESE Team Science](https://www.teamscience.net/){target=_blank}
+
+[University of Arizona Knowledge Map (KMAP)](https://kmap.arizona.edu){target=_blank} 
+
+# Global Networks
 
 (Meta list) [Open Scholarship Grassroots Community Networks](https://docs.google.com/spreadsheets/d/1LNF5_bOkRV-RLIF4HYmu-gOemIa4IdfXEer89fM-Vy8/edit#gid=847887324){target=_blank}
 
