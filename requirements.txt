@@ -11,7 +11,6 @@ tox
 twine
 watchdog
 wheel
-mkdocs
 mkdocs-git-revision-date-plugin 
 mkdocs-jupyter 
 mkdocs-material 
@@ -19,5 +18,16 @@ mkdocs-pdf-export-plugin
 mkdocstrings 
 mkdocstrings-crystal
 mkdocstrings-python-legacy
-pygments
-pymdown-extensions
+#pygments>=2.10,<2.12
+#pymdown-extensions<9.4
+
+# Requirements for core
+jinja2>=3.0.2
+markdown>=3.2
+mkdocs>=1.4.0
+mkdocs-material-extensions>=1.0.3
+pygments>=2.12
+pymdown-extensions>=9.4
+
+# Requirements for plugins
+requests>=2.26
