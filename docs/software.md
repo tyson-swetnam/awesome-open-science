@@ -126,6 +126,22 @@
 
 [TravisCI](https://www.travis-ci.com/){target=_blank}
 
+## : Composable Computing
+
+[:simple-ansible: Ansible](https://www.ansible.com/) - simple IT automation engine that automates cloud provisioning, configuration management, application deployment, intra-service orchestration, and many other IT needs.
+
+[:simple-argo: Argo Workflows](https://argoproj.github.io/argo-workflows/){target=_blank} -  is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes.
+
+[:simple-chef: Chef](https://www.chef.io/){target=_blank}
+
+[:simple-puppet: Puppet](https://puppet.com/){target=_blank}
+
+[:simple-saltproject: SaltStack](https://repo.saltproject.io/){target=_blank}
+
+[:simple-terraform: Terraform (HashiCorp)](https://www.terraform.io/){target=_blank} - leverage declarative configuration file for deploying infrastructure 
+
+[:simple-vagrant: Vagrant (HashiCorp)](https://www.vagrantup.com/){target=_blank} - leverages a declarative configuration file which describes all your software requirements, packages, operating system configuration, users, and more.
+
 ## Scientific Software 
 
 [:material-language-python: NumPy](https://numpy.org/){target=_blank}
@@ -140,17 +156,15 @@
 
 ## :octicons-container-24: Containers
 
-[:fontawesome-brands-octopus-deploy: Argo Workflows](https://argoproj.github.io/argo-workflows/){target=_blank} -  is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes.
-
 [:octicons-container-24: Apptainer](https://apptainer.org/){target=_blank} - (also see Singularity) Linux Foundation branched container platform for HPC and Cloud.
+
+[:simple-containerd: containerd](https://containerd.io/){target=_blank} - open and reliable container runtime featured in Kubernetes
 
 [:material-docker: Docker](https://docker.com){target=_blank} - widely used container platform for distributed computing.
 
 [:material-kubernetes: Kubernetes](https://kubernetes.io/){target=_blank} - open source container orchestration platform, created by Google.
 
-[:octicons-container-24: Singularity](https://sylabs.io/singularity/){target=_blank} - container platform for HPC and Cloud.
-
-[:material-terraform: Terraform (HashiCorp)](https://www.terraform.io/){target=_blank}
+[:octicons-container-24: Singularity](https://sylabs.io/singularity/){target=_blank} - containers for HPC and Cloud.
 
 ### Container Registries
 
