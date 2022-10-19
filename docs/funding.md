@@ -11,6 +11,8 @@
 
 ## :fontawesome-solid-earth-americas: United States 
 
+[Early Career Funding Opportunities (via Johns Hopkins University)](https://research.jhu.edu/rdt/funding-opportunities/early-career/){target=_blank}
+
 [Grant Explorer (App)](https://www.grantexplorer.org/){target=_blank} - view history of funded projects from NSF, NIH, and DoD
 
 [National Science Foundation (NSF)](https://nsf.gov){target=_blank}
