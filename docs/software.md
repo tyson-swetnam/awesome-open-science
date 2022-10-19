@@ -154,6 +154,10 @@
 
 [material-language-r: R-Universe](https://r-universe.dev/search/){target=_blank}
 
+## Machine Learning / Computer Vision
+
+[:simple-awesomelists: Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision){target=_blank} - meta list of many awesome lists and other links to ML, AI, and computer vision maintained by `jbhuang0604`
+
 ## :octicons-container-24: Containers
 
 [:octicons-container-24: Apptainer](https://apptainer.org/){target=_blank} - (also see Singularity) Linux Foundation branched container platform for HPC and Cloud.
