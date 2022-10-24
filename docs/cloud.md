@@ -4,13 +4,23 @@
 
 [NIH Strides](https://cloud.nih.gov/){target=_blank} - funding mechanism for commercial cloud using NIH money
 
-## Commercial Cloud Credits
+## Commercial Cloud Credit for Research
 
 [AWS Cloud Credit for Research](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/){target=_blank}
 
 [Google Cloud Research Credits](https://cloud.google.com/edu/researchers){target=_blank}
 
 [Microsoft Azure Research Credits](https://www.microsoft.com/en-us/azure-academic-research/){target=_blank}
+
+## Commercial Cloud Credit for Education
+
+[AWS Cloud for Education](https://aws.amazon.com/education){target=_blank}
+
+[Google Cloud for Education](https://edu.google.com/){target=_blank}
+
+[Microsoft Azure for Education](https://www.microsoft.com/mea/azureforedu/){target=_blank}
+
+* [GitHub Education (CodeSpaces)](https://education.github.com/){target=_blank}
 
 ## Open Cloud Software
 
