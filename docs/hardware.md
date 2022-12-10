@@ -20,6 +20,8 @@
 
 [Giga.io](https://gigaio.com/){target=_blank}
 
+[OpenStack](https://www.openstack.org/){target=_blank}
+
 [Open Storage Network](https://www.openstoragenetwork.org/){target=_blank}
 
 ## Internet of Things (IoT)
