@@ -64,6 +64,8 @@
 
 [Harvard Dataverse](https://dataverse.harvard.edu/){target=_blank} – offers free storage of research data, owned by Harvard
 
+[Merritt](https://merritt.cdlib.org/) - an open-source digital preservation repository maintained by the University of California Curation Center (UC3) at the California Digital Library (CDL).
+
 [Mendeley Data](https://data.mendeley.com/){target=_blank}
 
 [NITRC](https://www.nitrc.org/){target=_blank} - Neuroimaging Informatics Tools and Resources Collaboratory
