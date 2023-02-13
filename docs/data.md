@@ -56,6 +56,8 @@
 
 [EDUAT](https://www.eudat.eu/){target=_blank} – network of European research organizations.
 
+[European Data Portal](https://dataeuropa.gitlab.io/data-provider-manual/){target=_blank} - a central point of access to European open data from international, European Union, national, regional, local and geodata portals.
+
 [Figshare](https://figshare.com/){target=_blank}
 
 [GitHub](https://github.com){target=_blank}
