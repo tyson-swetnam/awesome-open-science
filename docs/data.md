@@ -90,7 +90,6 @@
 
 [Zenodo](https://zenodo.org/){target=_blank} – EU-funded project by OpenAire, it is hosted by CERN. Useful for EU-funded projects because reports back to the EU research Participant Portal.
 
-
 ## Protocols and Bench Techniques
 
 [BioProtocol](https://bio-protocol.org/Default.aspx){target=_blank}
@@ -160,6 +159,10 @@
 [Microsoft AI for Earth Datasets](https://github.com/microsoft/AIforEarthDataSets){target=_blank}
 
 [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/){target=_blank}
+
+## Torrents
+
+[Academic Torrents](https://academictorrents.com/){target=_blank}
 
 ## US Government Data 
 
