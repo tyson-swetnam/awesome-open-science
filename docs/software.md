@@ -158,6 +158,26 @@
 
 [material-language-r: R-Universe](https://r-universe.dev/search/){target=_blank}
 
+## Artificial Intelligence
+
+### Large Language Models
+
+[:simple-google: BARD](https://bard.google.com/){target=_blank} - Google's Large Language Model
+
+[:simple-githbu: LLaMA](https://github.com/facebookresearch/llama){target=_blank} - Meta's  [LLaMA (Large Language Model Meta AI)](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/){target=_blank}
+
+[ChatGPT](https://chat.openai.com/chat){target=_blank} -- [OpenAI](https://openai.com/){target=_blank} Large Language Model
+
+### Generative AI
+
+[OpenAI](https://platform.openai.com/){target=_blank} - is an American artificial intelligence research laboratory consisting of the non-profit OpenAI Incorporated and its for-profit subsidiary corporation OpenAI Limited Partnership.
+
+### Model Libraries
+
+[:hugging: Hugging Face](https://huggingface.co/){target=_blank} - is a public library of pre-trained models and applications
+
+* [Whitead/Paper-QA](https://huggingface.co/spaces/whitead/paper-qa){target=_blank}
+
 ## Machine Learning / Computer Vision
 
 [:simple-awesomelists: Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision){target=_blank} - meta list of many awesome lists and other links to ML, AI, and computer vision maintained by `jbhuang0604`
