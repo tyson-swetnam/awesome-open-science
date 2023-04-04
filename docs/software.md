@@ -130,7 +130,7 @@
 
 [TravisCI](https://www.travis-ci.com/){target=_blank}
 
-## : Composable Computing
+## :material-wrench-cog: Composable Computing
 
 [:simple-ansible: Ansible](https://www.ansible.com/) - simple IT automation engine that automates cloud provisioning, configuration management, application deployment, intra-service orchestration, and many other IT needs.
 
