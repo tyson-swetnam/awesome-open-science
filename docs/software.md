@@ -164,7 +164,7 @@
 
 [:simple-google: BARD](https://bard.google.com/){target=_blank} - Google's Large Language Model
 
-[:simple-githbu: LLaMA](https://github.com/facebookresearch/llama){target=_blank} - Meta's  [LLaMA (Large Language Model Meta AI)](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/){target=_blank}
+[:simple-github: LLaMA](https://github.com/facebookresearch/llama){target=_blank} - Meta's  [LLaMA (Large Language Model Meta AI)](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/){target=_blank}
 
 [ChatGPT](https://chat.openai.com/chat){target=_blank} -- [OpenAI](https://openai.com/){target=_blank} Large Language Model
 
