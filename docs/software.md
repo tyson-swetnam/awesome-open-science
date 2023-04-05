@@ -156,7 +156,7 @@
 
 [:material-language-r: TidyVerse](https://www.tidyverse.org/){target=_blank}
 
-[material-language-r: R-Universe](https://r-universe.dev/search/){target=_blank}
+[:material-language-r: R-Universe](https://r-universe.dev/search/){target=_blank}
 
 ## Artificial Intelligence
 
