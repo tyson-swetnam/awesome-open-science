@@ -1,8 +1,6 @@
 
 [AAAS List](https://www.science.org/content/page/where-search-funding){target=_blank} - meta list of funding sources
 
-[Newton's List](https://www.crdfglobal.org/success-stories/newtons-list-creating-opportunities-international-scientific-collaboration){target=_blank} - List of opportunities for international scientific collaboration
-
 [List of Funding Agencies](https://www.nsf.gov/od/oise/counterpart-funding-orgs.jsp){target=_blank} - other than US NSF
 
 ## :fontawesome-solid-globe: Global
