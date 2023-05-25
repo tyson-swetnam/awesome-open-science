@@ -55,6 +55,8 @@
 
 [Gordon & Betty Moore](https://www.moore.org/programs/science){target=_blank}
 
+[OceanKind](https://oceankind.org/){target=_blank}
+
 [Open Research Funders Group](https://www.orfg.org/){target=_blank}
 
 [John D. and Catherine T. MacArthur](https://www.macfound.org/){target=_blank}
