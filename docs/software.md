@@ -110,6 +110,8 @@
 
 [:material-language-python: Conda](https://docs.conda.io/en/latest/){target=_blank}
 
+[:material-language-python: Mamba](https://mamba.readthedocs.io/en/latest/installation.html){target=_blank}
+
 [:material-dog: yum](http://yum.baseurl.org/){target=_blank}
 
 ## :octicons-git-branch-24: Version Control 
