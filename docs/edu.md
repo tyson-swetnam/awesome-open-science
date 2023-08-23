@@ -2,7 +2,7 @@
 
 [The Carpentries](https://carpentries.org/){target=_blank} - teaches foundational coding and data science skills to researchers worldwide.  
 
-[EdX](https://www.edx.org/){target=_blank} - 
+[EdX](https://www.edx.org/){target=_blank} - massive open online course (MOOC) provider.
 
 [EveryoneOn](https://www.everyoneon.org/ ){target=_blank} - mission is to unlock opportunity by connecting families in underserved communities to affordable internet service and computers, and delivering digital skills trainings. 
 
@@ -33,10 +33,36 @@
 
 ## Courses
 
-## Open Scientists & Educators
+[TOPS Open Science 101](https://nasa.github.io/Transform-to-Open-Science/open-science-101/){target=_blank}
 
-[Qiusheng Wu](https://github.com/giswqs)
+## Amazing Open Scientists & Educators
 
-- [Awesome GEE]()
+[Ryan Abernathy](https://eesc.columbia.edu/content/ryan-abernathey){target=_blank} - Associate Professor of Earth and Environmental Science, Principal Investigator of [PanGEO](https://pangeo.io/){target=_blank}:
 
-[Samapriya Roy]()
+[İlkay Altıntaş](https://words.sdsc.edu/ilkay/){target=_blank} - is the Chief Data Science Officer and the Founding Director of the Workflows for Data Science (WorDS) Center of Excellence and [WIFIRE Lab](https://wifire.ucsd.edu/){target=_blank} at the San Diego Supercomputer Center
+
+[Rachana Ananthakrishnan](https://www.linkedin.com/in/rachanananthakrishnan){target=_blank} Executive Director at Universit of Chicago of [Globus](https://www.globus.org/){target=_blank}
+
+[Ewa Deelman](https://deelman.isi.edu/){target=_blank} - Research Professor and Research Director USC Information Sciences Institute, lead of the [Pegasus](https://pegasus.isi.edu/){target=_blank} workflow
+
+[Elizabeth Iorns](https://www.linkedin.com/in/elizabethiorns){target=_blank}: Founder of the [Science Exchange](https://ww2.scienceexchange.com/s/about){target=_blank}
+
+[Fiona Murphy](https://www.murphymitchellconsulting.com/){target=_blank} - consultant and advocate for open research and data sharing
+
+[Cameron Neylon](https://cameronneylon.net/about/biographies/){target=_blank} - Professor of Research Education, Advocacy Director for the [Public Library of Science (PLOS)](https://plos.org/){target=_blank}
+
+[Brian Nosek](https://med.virginia.edu/faculty/faculty-listing/ban2b/){target=_blank} - Professor of Psychology at University of Virginia, founder of the [Center for Open Science](https://www.cos.io/){target=_blank}
+
+[Fernando Pérez](https://bids.berkeley.edu/people/fernando-perez){target=_blank} - Associate Professor Statistics at UC Berkeley. Co-creator of [Project Jupyter](https://jupyter.org/){target=_blank}
+
+[Samapriya Roy](https://github.com/samapriya){target=_blank} - is a Google Developer Expert and geoinformatics guru on GEE. He maintains a large community catalog of scientific data [Awesome GEE Community Catalog](https://gee-community-catalog.org/){target=_blank} - a meta list of open science datasets in GEE.
+
+[Tracy Teal](https://www.linkedin.com/in/tracy-teal-059136b){target=_blank} - Open Source Program Director at RStudio. Formerly Executive Director of Dryad, The Carpentries and co-founder of Data Carpentry.
+
+[Hadley Wickham](https://hadley.nz/){target=_blank} - Developer of several popular R packages including the TidyVerse.
+
+[Jason J. Williams](https://jasonjwilliamsny.github.io/profile/){target=_blank} - is Assistant Director, Diversity and Research Readiness  at the Cold Spring Harbor Laboratory DNA Learning Center. 
+
+[Greg Wilson](https://third-bit.com/){target=_blank} - Co-founder of Software Carpentry and first Executive Director
+
+[Qiusheng Wu](https://github.com/giswqs){target=_blank} - Qiusheng is an associate professor at University of Tennessee internationally known geoinformatics scholar who works in Python and Google's Earth Engine (GEE) and [GEE Map](https://geemap.org/){target=_blank} software
