@@ -15,7 +15,7 @@
 
     [Lin et al. 2020](https://doi.org/10.1038/s41597-020-0486-7){target=_blank} created the TRUST pinciples for digital repositories.
     
-    [TRUST Principles](https://www.rd-alliance.org/trust-principles-rda-community-effort){target=_blank} 
+    * [TRUST Principles](https://www.rd-alliance.org/trust-principles-rda-community-effort){target=_blank} 
 
 ## Data Use Agreements
 
