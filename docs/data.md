@@ -13,7 +13,7 @@
     * [full document :fontawesome-solid-file-pdf:](https://static1.squarespace.com/static/5d3799de845604000199cd24/t/5da9f4479ecab221ce848fb2/1571419335217/CARE+Principles_One+Pagers+FINAL_Oct_17_2019.pdf){target=_blank}
     * [US Indigenous Data Sovereignty Network](https://usindigenousdata.org/){target=_blank}
 
-    [Lin et al. 2020](https://doi.org/10.1038/s41597-020-0486-7){target=_blank} created the TRUST pinciples for digital repositories.
+    [Lin et al. (2020)](https://doi.org/10.1038/s41597-020-0486-7){target=_blank} created the TRUST pinciples for digital repositories.
     
     * [TRUST Principles](https://www.rd-alliance.org/trust-principles-rda-community-effort){target=_blank} 
 
