@@ -46,6 +46,13 @@
 
 ## National 
 
+### UK
+
+[The Alan Turing Institute (Turing Way)](https://www.turing.ac.uk/research/research-projects/turing-way){target=_blank}
+
+[University of Manchester Open Research](https://www.library.manchester.ac.uk/services/research/open-research/){target=_blank}
+
+
 ### US
 
 [Center for Open Science](https://www.cos.io/){target=_blank}
