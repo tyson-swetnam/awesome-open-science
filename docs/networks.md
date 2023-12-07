@@ -22,6 +22,8 @@
 
 [eLife](https://elifesciences.org/){target=_blank}
 
+[Global Open Science Cloud](https://codata.org/initiatives/decadal-programme2/global-open-science-cloud/){target=_blank}
+
 [NumFocus](https://numfocus.org/){target=_blank}
 
 [Open Access Working Group](https://sparcopen.org/people/open-access-working-group/){target=_blank}
@@ -45,6 +47,10 @@
 [World Wide Web Consortium (W3C)](https://www.w3.org/){target=_blank}
 
 ## National 
+
+### South Africa
+
+[Africa Open Science Platform](https://aosp.org.za/){target=_blank}
 
 ### UK
 
