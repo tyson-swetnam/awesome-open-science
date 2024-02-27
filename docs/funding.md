@@ -7,7 +7,17 @@
 
 [UNESCO](https://www.unesco.org/en/natural-sciences/open-science){target=_blank} - Recommendation on Open Science provides an international framework for open science policy and practice that recognizes disciplinary and regional differences in open science perspectives
 
-## :fontawesome-solid-earth-americas: United States 
+## :fontawesome-solid-earth-americas: Americas
+
+### :fontawesome-solid-earth-americas: Canada
+
+[Natural Sciences and Engineering Research Council of Canada](https://www.nserc-crsng.gc.ca/index_eng.asp){target=_blank}
+
+### :fontawesome-solid-earth-americas: Mexico
+
+[]()()
+
+### :fontawesome-solid-earth-americas: United States 
 
 [Early Career Funding Opportunities (via Johns Hopkins University)](https://research.jhu.edu/rdt/funding-opportunities/early-career/){target=_blank}
 
@@ -20,6 +30,12 @@
 [Department of Energy (DoE)](https://www.energy.gov/science/office-science){target=_blank}
 
 [National Institute of Food and Agriculture (NIFA)](https://www.nifa.usda.gov/grants/funding-opportunities){target=_blank}
+
+### :fontawesome-solid-earth-americas: Brazil
+
+[Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)](https://www.gov.br/cnpq/pt-br){target=_blank}
+
+[Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior) (CAPES)](https://www.iie.org/programs/capes/){target=_blank}
 
 ## :fontawesome-solid-earth-oceania: Oceania
 
