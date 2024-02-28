@@ -48,6 +48,12 @@
 
 ## National 
 
+### Brazil
+
+[Civis](https://civis.ibict.br/en/){target=_blank}
+
+[Cinda Lab](https://cindalab.ibict.br/){target=_blank}
+
 ### South Africa
 
 [Africa Open Science Platform](https://aosp.org.za/){target=_blank}
@@ -57,7 +63,6 @@
 [The Alan Turing Institute (Turing Way)](https://www.turing.ac.uk/research/research-projects/turing-way){target=_blank}
 
 [University of Manchester Open Research](https://www.library.manchester.ac.uk/services/research/open-research/){target=_blank}
-
 
 ### US
 
