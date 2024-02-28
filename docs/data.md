@@ -211,6 +211,14 @@
 
 [UK Met Office data](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/index){target=_blank}
 
+[Open Data Cube](https://www.opendatacube.org/){target=_blank}
+
+[Africa Regional Data Cube](https://www.data4sdgs.org/index.php/initiatives/africa-regional-data-cube){target=_blank}
+
+[Australia Open Data Cube](https://www.dea.ga.gov.au/about/open-data-cube){target=_blank}
+
+[Brazil Data Cube](http://www.brazildatacube.org/en/home-page-2/){target=_blank}
+
 ## Public Data Sets
 
 [OpenStreetMap (OSM)](https://www.openstreetmap.org/){target=_blank}
