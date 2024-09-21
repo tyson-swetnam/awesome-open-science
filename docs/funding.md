@@ -5,7 +5,7 @@
 
 ## :fontawesome-solid-globe: Global
 
-[UNESCO](https://www.unesco.org/en/natural-sciences/open-science){target=_blank} - Recommendation on Open Science provides an international framework for open science policy and practice that recognizes disciplinary and regional differences in open science perspectives
+[UNESCO](https://www.unesco.org/en/open-science){target=_blank} - Recommendation on Open Science provides an international framework for open science policy and practice that recognizes disciplinary and regional differences in open science perspectives
 
 ## :fontawesome-solid-earth-americas: Americas
 
@@ -15,7 +15,7 @@
 
 ### :fontawesome-solid-earth-americas: Mexico
 
-[]()()
+[Ciencia abierta](https://doi.org/10.30878/ces.v30n1a11){target=_blank} 
 
 ### :fontawesome-solid-earth-americas: United States 
 
