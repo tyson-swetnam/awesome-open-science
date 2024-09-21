@@ -8,7 +8,6 @@
 
 - [ConnectHomeUSA](https://connecthomeusa.org/){target=_blank} - is a movement to bridge the digital divide for HUD-assisted housing residents in the United States under the leadership of national nonprofit EveryoneOn.
 
-
 [Global Digital Literacy Council](https://www.gdlcouncil.org/){target=_blank} -  has dedicated more than 15 years of hard work to the creation and maintenance of worldwide standards in digital literacy. 
 
 [National Digital Equity Center](https://digitalequitycenter.org/about-us/){target=_blank} a 501c3 non-profit, is a nationally recognized organization with a mission to close the digital divide across the United States.
@@ -16,6 +15,8 @@
 [National Digital Inclusion Allaince](https://www.digitalinclusion.org/){target=_blank} - advances digital equity by supporting community programs and equipping policymakers to act.
 
 [Net Literacy](https://www.netliteracy.org/){target=_blank}
+
+[NIST](https://www.nist.gov/programs-projects/research-data-framework-rdaf){target=_blank} - Research Data Framework (RDaF) 
 
 [Open Educational Resources Commons](https://www.oercommons.org/){target=_blank}
 
