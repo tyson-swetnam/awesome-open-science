@@ -19,6 +19,8 @@
 
 ### :fontawesome-solid-earth-americas: United States 
 
+[Science.gov](https://open.science.gov/){target=_blank} - Open Science Announcements from Federal Agencies
+
 [Early Career Funding Opportunities (via Johns Hopkins University)](https://research.jhu.edu/rdt/funding-opportunities/early-career/){target=_blank}
 
 [Grant Explorer (App)](https://www.grantexplorer.org/){target=_blank} - view history of funded projects from NSF, NIH, and DoD
