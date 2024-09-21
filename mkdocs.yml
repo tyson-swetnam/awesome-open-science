@@ -106,6 +106,7 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
+      title: On this page
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:
