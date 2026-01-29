@@ -26,9 +26,19 @@
 
 ## :material-search-web: Literature & Document Search
 
+### Open Bibliographic Databases
+
+[OpenAlex](https://openalex.org/){target=_blank} - free and open catalog of the global research system with 250M+ works, successor to Microsoft Academic Graph
+
+[The Lens](https://www.lens.org/){target=_blank} - free, open scholarly search and analytics platform with patent data integration
+
+[Dimensions](https://www.dimensions.ai/){target=_blank} - research intelligence platform linking publications, grants, patents, clinical trials (free basic access)
+
+### General Search Engines
+
 [:material-google: Google Scholar](https://scholar.google.com/intl/en/scholar/about.html){target=_blank} - based on Google's powerful knowledge graph
 
-[Bieleld Academic Search Engine (BASE)](https://www.base-search.net/){target=_blank} - provides more than 240 million documents from more than 8,000 content providers.
+[Bielefeld Academic Search Engine (BASE)](https://www.base-search.net/){target=_blank} - provides more than 240 million documents from more than 8,000 content providers
 
 [BioOne](https://bioone.org/){target=_blank}
 
@@ -69,6 +79,28 @@
 [SSRN](https://www.ssrn.com/index.cfm/en/){target=_blank} - formerly Social Science Research Network, now owned by Elsevier
 
 [UpToDate](https://www.uptodate.com/contents/search){target=_blank}
+
+## :material-file-document-multiple: Preprint Servers
+
+[arXiv](https://arxiv.org/){target=_blank} - pioneering preprint server for physics, mathematics, computer science, quantitative biology, and statistics (since 1991)
+
+[bioRxiv](https://www.biorxiv.org/){target=_blank} - preprint server for biology operated by openRxiv nonprofit (founded 2013)
+
+[medRxiv](https://www.medrxiv.org/){target=_blank} - preprint server for health sciences operated by openRxiv nonprofit (founded 2019)
+
+[ChemRxiv](https://chemrxiv.org/){target=_blank} - preprint server for chemistry hosted by American Chemical Society
+
+[EarthArXiv](https://eartharxiv.org/){target=_blank} - preprint service for Earth science research
+
+[PsyArXiv](https://psyarxiv.com/){target=_blank} - preprint archive for psychological science
+
+[SocArXiv](https://osf.io/preprints/socarxiv){target=_blank} - open archive of social science research
+
+[engrXiv](https://engrxiv.org/){target=_blank} - preprint server for engineering
+
+[AgriXiv](https://agrirxiv.org/){target=_blank} - preprint service for agriculture and allied sciences
+
+[RePEc](https://repec.org/){target=_blank} - Research Papers in Economics, collaborative effort of hundreds of volunteers
 
 ## Query Languages
 

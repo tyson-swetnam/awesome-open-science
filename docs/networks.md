@@ -14,13 +14,19 @@
 
 ## International
 
-[Center for Scientific Collaboration and Community Engagement (CSCCE)](https://www.cscce.org/){target=_blank}
+[Center for Scientific Collaboration and Community Engagement (CSCCE)](https://www.cscce.org/){target=_blank} - supports leaders of scientific communities through training and resources
 
-[Center for Open Science (COS)](https://www.cos.io/){target=_blank}
+[Center for Open Science (COS)](https://www.cos.io/){target=_blank} - nonprofit improving openness, integrity, and reproducibility of research
 
-[Eclipse Science Working Group](https://science.eclipse.org/){target=_blank}
+[CODATA](https://codata.org/){target=_blank} - Committee on Data of the International Science Council promoting open data and FAIR principles
 
-[eLife](https://elifesciences.org/){target=_blank}
+[Eclipse Science Working Group](https://www.eclipse.org/collaborations/){target=_blank} - open source collaboration for scientific computing
+
+[eLife](https://elifesciences.org/){target=_blank} - nonprofit organization and open-access publisher of peer-reviewed scientific research
+
+[FOSTER Plus](https://www.fosteropenscience.eu/){target=_blank} - Fostering the practical implementation of Open Science in Horizon 2020 and beyond
+
+[Force11](https://force11.org/){target=_blank} - Future of Research Communications and e-Scholarship community
 
 [Global Open Science Cloud](https://codata.org/initiatives/decadal-programme2/global-open-science-cloud/){target=_blank}
 
@@ -58,11 +64,17 @@
 
 [Africa Open Science Platform](https://aosp.org.za/){target=_blank}
 
-### UK
+### Europe
 
-[The Alan Turing Institute (Turing Way)](https://www.turing.ac.uk/research/research-projects/turing-way){target=_blank}
+[European Open Science Cloud (EOSC)](https://eosc-portal.eu/){target=_blank} - EU initiative for open science infrastructure and services
 
-[University of Manchester Open Research](https://www.library.manchester.ac.uk/services/research/open-research/){target=_blank}
+[OpenAIRE](https://www.openaire.eu/){target=_blank} - European network supporting Open Access and Open Science policies
+
+[The Alan Turing Institute (Turing Way)](https://www.turing.ac.uk/research/research-projects/turing-way){target=_blank} - UK national institute for data science and AI, hosts The Turing Way project
+
+[University of Manchester Open Research](https://www.openresearch.manchester.ac.uk/){target=_blank} - institutional open research support and advocacy
+
+[Netherlands eScience Center](https://www.esciencecenter.nl/){target=_blank} - Dutch national center for developing and applying research software
 
 ### US
 
