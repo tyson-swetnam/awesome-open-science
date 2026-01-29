@@ -1,21 +1,44 @@
-name: Publish docs via GitHub
+name: Publish docs via GitHub Pages
 on:
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
-  build:
-    name: Deploy docs
+  deploy:
     runs-on: ubuntu-latest
+    if: github.event.repository.fork == false
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
         with:
-          python-version: 3.9
-      - name: run requirements file
-        run:  pip install -r requirements.txt 
-      - name: Deploy docs
-        run: mkdocs gh-deploy --force
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # For git-revision-date plugin
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
+
+      - uses: actions/cache@v3
+        with:
+          key: zensical-${{ env.cache_id }}
+          path: .cache
+          restore-keys: |
+            zensical-
+
+      - run: sudo apt-get install pngquant -y
+
+      - run: pip install -r requirements.txt
+
+      - name: Build with Zensical
+        run: zensical build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
+          force_orphan: true
