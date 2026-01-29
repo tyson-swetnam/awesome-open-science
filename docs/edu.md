@@ -8,9 +8,9 @@
 
 - [ConnectHomeUSA](https://connecthomeusa.org/){target=_blank} - is a movement to bridge the digital divide for HUD-assisted housing residents in the United States under the leadership of national nonprofit EveryoneOn.
 
-[Global Digital Literacy Council](https://www.gdlcouncil.org/){target=_blank} -  has dedicated more than 15 years of hard work to the creation and maintenance of worldwide standards in digital literacy. 
+[Global Digital Literacy Council](https://www.certiport.com/Portal/?page=common/pagelibrary/About_partners_GDLC.htm){target=_blank} -  has dedicated more than 15 years of hard work to the creation and maintenance of worldwide standards in digital literacy. 
 
-[National Digital Equity Center](https://digitalequitycenter.org/about-us/){target=_blank} a 501c3 non-profit, is a nationally recognized organization with a mission to close the digital divide across the United States.
+[National Digital Equity Center](https://digitalequitycenter.org/){target=_blank} a 501c3 non-profit, is a nationally recognized organization with a mission to close the digital divide across the United States.
 
 [National Digital Inclusion Allaince](https://www.digitalinclusion.org/){target=_blank} - advances digital equity by supporting community programs and equipping policymakers to act.
 
@@ -34,19 +34,19 @@
 
 ## Courses
 
-[TOPS Open Science 101](https://nasa.github.io/Transform-to-Open-Science/open-science-101/){target=_blank}
+[TOPS Open Science 101](https://openscience101.org/){target=_blank}
 
 ## Amazing Open Scientists & Educators
 
-[Ryan Abernathy](https://eesc.columbia.edu/content/ryan-abernathey){target=_blank} - Associate Professor of Earth and Environmental Science, Principal Investigator of [PanGEO](https://pangeo.io/){target=_blank}:
+[Ryan Abernathey](https://rabernat.medium.com/){target=_blank} - Former Associate Professor of Earth and Environmental Science at Columbia, co-founder of [Pangeo](https://pangeo.io/){target=_blank}, now CEO of Earthmover
 
 [İlkay Altıntaş](https://words.sdsc.edu/ilkay/){target=_blank} - is the Chief Data Science Officer and the Founding Director of the Workflows for Data Science (WorDS) Center of Excellence and [WIFIRE Lab](https://wifire.ucsd.edu/){target=_blank} at the San Diego Supercomputer Center
 
-[Rachana Ananthakrishnan](https://www.linkedin.com/in/rachanananthakrishnan){target=_blank} Executive Director at Universit of Chicago of [Globus](https://www.globus.org/){target=_blank}
+[Rachana Ananthakrishnan](https://www.globus.org/about/team){target=_blank} Executive Director at University of Chicago of [Globus](https://www.globus.org/){target=_blank}
 
 [Ewa Deelman](https://deelman.isi.edu/){target=_blank} - Research Professor and Research Director USC Information Sciences Institute, lead of the [Pegasus](https://pegasus.isi.edu/){target=_blank} workflow
 
-[Elizabeth Iorns](https://www.linkedin.com/in/elizabethiorns){target=_blank}: Founder of the [Science Exchange](https://ww2.scienceexchange.com/s/about){target=_blank}
+[Elizabeth Iorns](https://ww2.scienceexchange.com/s/about){target=_blank}: Founder of the [Science Exchange](https://ww2.scienceexchange.com/s/about){target=_blank}
 
 [Fiona Murphy](https://www.murphymitchellconsulting.com/){target=_blank} - consultant and advocate for open research and data sharing
 
@@ -58,7 +58,7 @@
 
 [Samapriya Roy](https://github.com/samapriya){target=_blank} - is a Google Developer Expert and geoinformatics guru on GEE. He maintains a large community catalog of scientific data [Awesome GEE Community Catalog](https://gee-community-catalog.org/){target=_blank} - a meta list of open science datasets in GEE.
 
-[Tracy Teal](https://www.linkedin.com/in/tracy-teal-059136b){target=_blank} - Open Source Program Director at RStudio. Formerly Executive Director of Dryad, The Carpentries and co-founder of Data Carpentry.
+[Tracy Teal](https://tracyteal.github.io/){target=_blank} - Open Source Program Director at Posit (formerly RStudio). Formerly Executive Director of Dryad, The Carpentries and co-founder of Data Carpentry.
 
 [Hadley Wickham](https://hadley.nz/){target=_blank} - Developer of several popular R packages including the TidyVerse.
 

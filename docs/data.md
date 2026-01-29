@@ -25,7 +25,7 @@
 
 [European General Data Protection (GDPR)](https://gdpr-info.eu/){target=_blank}
 
-[US HIPAA](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html){target=_blank}
+[US HIPAA](https://www.hhs.gov/hipaa/for-professionals/privacy/index.html){target=_blank}
 
 ## License Types
 
@@ -89,7 +89,7 @@
 
 [Registry of Research Data Repositories](https://www.re3data.org/){target=_blank}
 
-[The Winnower](https://thewinnower.com/){target=_blank}
+[The Winnower (defunct)](https://en.wikipedia.org/wiki/The_Winnower){target=_blank} - platform is no longer active
 
 [Zenodo](https://zenodo.org/){target=_blank} – EU-funded project by OpenAire, it is hosted by CERN. Useful for EU-funded projects because reports back to the EU research Participant Portal.
 
@@ -107,13 +107,13 @@
 
 [OpenWetWare](https://openwetware.org/wiki/Main_Page){target=_blank}
 
-[Protocol Exchange](https://protocolexchange.researchsquare.com/){target=_blank}
+[Protocol Exchange (archived, now part of protocols.io)](https://www.protocols.io/){target=_blank}
 
 [Protocols Online](http://www.protocol-online.org/prot/){target=_blank}
 
 [:material-microscope: Protocols](https://www.protocols.io/){target=_blank}
 
-[SciGene](http://scigine.com/blog/){target=_blank}
+[SciGene](https://scigene.com/){target=_blank} - laboratory equipment manufacturer
 
 [Springer Nature Experiments](https://experiments.springernature.com/){target=_blank}
 
@@ -177,7 +177,7 @@
 
 [NASA Data](https://data.nasa.gov/){target=_blank}
 
-[USGS data](https://data.usgs.gov/datacatalog/){target=_blank}
+[USGS data](https://data.usgs.gov/){target=_blank}
 
 ## EU Government Data
 
