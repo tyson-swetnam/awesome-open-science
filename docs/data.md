@@ -21,6 +21,8 @@
 
 [MIT model data use agreements ](https://admindatahandbook.mit.edu/book/v1.0-rc4/dua.html){target=_blank}
 
+[Databrary Access Agreement](https://databrary.org/about/agreement.html){target=_blank} - Permits restricted access for data use and contribution by institutionally-authorized researchers who join [Databrary](https://databrary.org).
+
 ## Regulations
 
 [European General Data Protection (GDPR)](https://gdpr-info.eu/){target=_blank}
@@ -52,6 +54,8 @@
 ## Data Repositories
 
 [Nature Scientific Data Repositories - Recommended](https://www.nature.com/sdata/policies/repositories){target=_blank} - metalist of data repositories recommended for Nature science articles
+
+[Databrary](https://databrary.org){target=_blank} – NSF and NIH-funded repository specialized for storing and sharing video data and other identifiable data from human subjects research. Based at New York University.
 
 [Dryad](https://datadryad.org){target=_blank} – started as US NSF project, used for data sets of any type that correspond to a research paper. 
 
