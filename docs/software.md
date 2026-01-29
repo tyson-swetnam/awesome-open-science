@@ -10,17 +10,27 @@
 
 ## :material-flask: Scientific Support Systems
 
-[Center for Open Science](https://www.cos.io/){target=_blank}
- 
-- [Open Science Framework](https://osf.io/){target=_blank}
+[Center for Open Science](https://www.cos.io/){target=_blank} - nonprofit improving openness, integrity, and reproducibility of research
 
-[Digital Object Identifier (DOI) Org](https://doi.org){target=_blank} - is the registration authority for the ISO standard (ISO 26324) for the DOI system. The DOI system provides a technical and social infrastructure for the registration and use of persistent interoperable identifiers, called DOIs, for use on digital networks.
+- [Open Science Framework (OSF)](https://osf.io/){target=_blank} - free, open platform to support research workflow and collaboration
+
+[Digital Object Identifier (DOI) Org](https://www.doi.org/){target=_blank} - is the registration authority for the ISO standard (ISO 26324) for the DOI system. The DOI system provides a technical and social infrastructure for the registration and use of persistent interoperable identifiers, called DOIs, for use on digital networks
 
 [:fontawesome-brands-orcid: ORCID](https://orcid.org/){target=_blank} - unique digital ID for every researcher
 
-[Zenodo](https://zenodo.org/){target=_blank} - EU funded project for DOIs
+[ROR (Research Organization Registry)](https://ror.org/){target=_blank} - community-led registry of open, sustainable, usable identifiers for research organizations
+
+[Crossref](https://www.crossref.org/){target=_blank} - official DOI registration agency for scholarly metadata
+
+[DataCite](https://datacite.org/){target=_blank} - global DOI registration agency for research data and other research outputs
+
+[Zenodo](https://zenodo.org/){target=_blank} - EU funded project for DOIs, hosts open datasets and software
 
 [Zotero](https://www.zotero.org/){target=_blank} - open source publication and citation manager
+
+[Mendeley](https://www.mendeley.com/){target=_blank} - reference manager and academic social network
+
+[Protocols.io](https://www.protocols.io/){target=_blank} - open access repository of science methods and research protocols
 
 ## :material-flask: Scientific Programming Languages
 
