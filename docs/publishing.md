@@ -8,19 +8,19 @@
 
 [BioRxiv](https://www.biorxiv.org/){target=_blank} -  is an open access preprint repository for the biological sciences.
 
-[EvoEcoRxiv](https://www.ecoevorxiv.com/){target=_blank}
+[EcoEvoRxiv](https://www.ecoevorxiv.com/){target=_blank} - preprint server for ecology and evolution
 
-[MedRxiv](https://www.medrxiv.org/){target=_blank}
+[medRxiv](https://www.medrxiv.org/){target=_blank} - preprint server for health sciences
 
-[SocArXiv](SocArXiv){target=_blank}
+[SocArXiv](https://osf.io/preprints/socarxiv){target=_blank} - open archive for social science research
 
-[OSF.io Preprints](https://osf.io/preprints/){target=_blank}
+[OSF.io Preprints](https://osf.io/preprints/){target=_blank} - multidisciplinary preprint platform by Center for Open Science
 
 ## Financial Support for Open Access Publishing Fees
 
-[SciDevNet](https://www.scidev.net/global/){target=_blank}
+[SciDev.Net](https://www.scidev.net/global/){target=_blank} - science and development news with OA support
 
-[Health InterNetwork Access to Research Initiative (HINARI)](http://www.emro.who.int/information-resources/hinari/){target=_blank}
+[HINARI](http://www.emro.who.int/information-resources/hinari/){target=_blank} - WHO program providing free journal access
 
 [Max Planck Digital Library](https://group.springernature.com/gb/group/media/press-releases/landmark-agreement-between-springer-nature-and-mpdl/18498782){target=_blank} - German authors can have OA fees in Springer Nature research journals paid for.
 
@@ -28,12 +28,12 @@
 
 ## Open Access Publishing
 
-[AAAS](https://www.science.org/content/page/open-access-aaas){target=_blank}
+[AAAS Open Access](https://www.science.org/content/page/open-access-aaas){target=_blank} - American Association for Advancement of Science OA options
 
-[Nature](https://www.nature.com/nature-portfolio/open-access){target=_blank}
+[Nature Portfolio Open Access](https://www.nature.com/nature-portfolio/open-access){target=_blank} - Springer Nature's open access journals and options
 
-[American Geophysical Union](https://www.agu.org/Publish-with-AGU/Publish/Open-Access){target=_blank}
+[American Geophysical Union (AGU)](https://www.agu.org/Publish-with-AGU/Publish/Open-Access){target=_blank} - Earth and space sciences OA publishing
 
-[Commonwealth Scientific and Industrial Research Organisation (CSIRO)](https://acsopenscience.org/australia-csiro/){target=_blank}
+[CSIRO Open Science](https://acsopenscience.org/australia-csiro/){target=_blank} - Australian research organization's open access platform
 
-[Open Research Europe](https://open-research-europe.ec.europa.eu/){target=_blank}
+[Open Research Europe](https://open-research-europe.ec.europa.eu/){target=_blank} - Horizon Europe grantees' open access publishing platform

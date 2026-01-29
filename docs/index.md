@@ -23,13 +23,13 @@ This Awesome List is compiled in the effort to help new researchers find and lea
 
 ??? Question "What is Open Science?"
 
-    [Wikipedia definition](https://en.wikipedia.org/wiki/Open_science){target=_blank}
+    [Wikipedia definition](https://en.wikipedia.org/wiki/Open_science){target=_blank} - comprehensive overview of open science principles
 
-    [UNESCO Recommendatio non Open Science](https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en){target=_blank}
-    
-     - [UNESCO Definition](https://www.unesco.org/en/natural-sciences/open-science){target=_blank}
-    
-    [Open Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/){target=_blank}
+    [UNESCO Recommendation on Open Science](https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en){target=_blank} - international framework for open science policy
+
+     - [UNESCO Open Science](https://www.unesco.org/en/open-science){target=_blank} - UNESCO's open science initiative and resources
+
+    [Open Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/){target=_blank} - principles for democratizing knowledge globally
 
     ??? "Six Pillars :material-pillar: of Open Science"
 
@@ -49,7 +49,7 @@ This Awesome List is compiled in the effort to help new researchers find and lea
 
     ??? "Reproducibility and Replicability in Science by The National Academies 2019"
 
-        [National Academies Report 2019](https://www.nationalacademies.org/our-work/reproducibility-and-replicability-in-science){target=_blank}
+        [National Academies Report 2019](https://www.nationalacademies.org/projects/DBASSE-BBCSS-17-03){target=_blank} - consensus study on reproducibility in science
 
         **Reproducibility** means computational reproducibility—obtaining consistent computational results using the same input data, computational steps, methods, code, and conditions of analysis. 
 
@@ -77,11 +77,11 @@ This Awesome List is compiled in the effort to help new researchers find and lea
 
     Depending on what you find, the number generally ranges from 4 to 8
 
-    - [Wikipedia](https://en.wikipedia.org/wiki/Open_science){target=_blank}
+    - [Wikipedia](https://en.wikipedia.org/wiki/Open_science){target=_blank} - overview of open science pillars
 
-    - [4 :material-pillar:](https://narratives.insidehighered.com/four-pillars-of-open-science/){target=_blank}
+    - [4 Pillars :material-pillar:](https://narratives.insidehighered.com/four-pillars-of-open-science/){target=_blank} - Inside Higher Ed framework
 
-    - [8 :material-pillar:](https://www.ucl.ac.uk/library/research-support/open-science/8-pillars-open-science){target=_blank}
+    - [8 Pillars :material-pillar:](https://www.ucl.ac.uk/library/open-science-research-support/open-science/8-pillars-open-science){target=_blank} - UCL Library comprehensive framework
 
     ??? Idea "Commonly Identified Pillars :material-pillar:"
 

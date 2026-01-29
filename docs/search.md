@@ -1,28 +1,28 @@
 ## Search Engines
 
-[OpenAire](https://explore.openaire.eu/search/find/dataproviders){target=_blank}
+[OpenAIRE Explore](https://explore.openaire.eu/search/find/dataproviders){target=_blank} - European open science data provider search
 
-[OSF Share](https://share.osf.io/sources){target=_blank}
+[OSF Share](https://share.osf.io/sources){target=_blank} - search engine for open scholarly content
 
 ## Structured Data Search
 
-[Schema.org](https://schema.org/){target=_blank}
+[Schema.org](https://schema.org/){target=_blank} - structured data markup schemas for web content
 
-[Sustainability Data](https://blog.google/outreach-initiatives/sustainability/data-commons-sustainability/){target=_blank}
+[Google Data Commons Sustainability](https://blog.google/company-news/outreach-and-initiatives/sustainability/data-commons-sustainability/){target=_blank} - environmental and sustainability data platform
 
-[DataCommons.org](https://datacommons.org/){target=_blank}
+[DataCommons.org](https://datacommons.org/){target=_blank} - Google's platform unifying public datasets
 
-[Linked Open Data Cloud](https://lod-cloud.net/){target=_blank}
+[Linked Open Data Cloud](https://lod-cloud.net/){target=_blank} - visualization of interconnected open datasets
 
 ## Scientific Knowledge Graphs
 
-[AIDA](http://w3id.org/aida){target=_blank} -  Academia/Industry DynAmics (AIDA) Knowledge Graph, which describes 21M publications and 8M patents according to the research topics drawn from the Computer Science Ontology.
+[AIDA Knowledge Graph](https://aida.kmi.open.ac.uk/){target=_blank} - 21M publications and 8M patents with CS topics
 
-[Open Knowledge Graph](https://data.open.ac.uk/)
+[Open Knowledge Graph](https://data.open.ac.uk/){target=_blank} - Open University's linked open data platform
 
-[Open Research Knowledge Graph](https://www.orkg.org/orkg/){target=_blank}
+[Open Research Knowledge Graph (ORKG)](https://orkg.org/){target=_blank} - structured scholarly knowledge with semantic descriptions
 
-[Amazon Science](https://www.amazon.science/tag/knowledge-graphs){target=_blank}
+[Amazon Science Knowledge Graphs](https://www.amazon.science/tag/knowledge-graphs){target=_blank} - research publications on knowledge graph technology
 
 ## :material-search-web: Literature & Document Search
 
