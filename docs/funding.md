@@ -15,7 +15,17 @@
 
 ### :fontawesome-solid-earth-americas: Mexico
 
-[Ciencia abierta](https://doi.org/10.30878/ces.v30n1a11){target=_blank} - open science policy in Latin America 
+[CONAHCYT (formerly CONACYT)](https://conahcyt.mx/){target=_blank} - Mexico's science and technology council, elevated to Secretariat level in 2025
+
+[UC-MEXUS](https://ucmexus.ucr.edu/funding/grant_collaborative.html){target=_blank} - University of California Institute for Mexico-US collaborative research
+
+[Ciencia abierta](https://doi.org/10.30878/ces.v30n1a11){target=_blank} - open science policy in Latin America
+
+### :fontawesome-solid-earth-americas: Central America
+
+[CSUCA](https://www.csuca.org/){target=_blank} - Central American Higher Education Council coordinating regional research
+
+[AACR MONARCA Grant](https://www.aacr.org/grants/aacr-monarca-grant-latin-america/){target=_blank} - cancer research grants for Latin America researchers 
 
 ### :fontawesome-solid-earth-americas: United States
 
@@ -39,11 +49,43 @@
 
 [National Oceanic and Atmospheric Administration (NOAA)](https://www.noaa.gov/grants){target=_blank} - funding for ocean, coastal, and atmospheric research
 
-### :fontawesome-solid-earth-americas: Brazil
+### :fontawesome-solid-earth-americas: South America
 
-[CNPq](https://www.gov.br/cnpq/pt-br){target=_blank} - Brazil's National Council for Scientific Development
+**Argentina:**
 
-[CAPES](https://www.iie.org/programs/capes/){target=_blank} - Brazilian agency for graduate education advancement
+[CONICET](https://www.conicet.gov.ar/?lan=en){target=_blank} - Argentina's National Scientific and Technical Research Council, ranked #1 in Latin America
+
+**Brazil:**
+
+[CNPq](https://www.gov.br/cnpq/pt-br){target=_blank} - National Council for Scientific and Technological Development
+
+[CAPES](https://www.gov.br/capes/pt-br){target=_blank} - Brazilian federal agency for graduate education
+
+[FAPESP](https://fapesp.br/en){target=_blank} - São Paulo Research Foundation, 1% of state taxes for research
+
+**Chile:**
+
+[ANID](https://www.anid.cl/){target=_blank} - National Research and Development Agency (formerly CONICYT)
+
+[Fondecyt](https://www.conicyt.cl/fondecyt/?lang=en){target=_blank} - Chile's main basic research funding program
+
+**Colombia:**
+
+[Minciencias](https://minciencias.gov.co/){target=_blank} - Ministry of Science, Technology and Innovation (formerly COLCIENCIAS)
+
+**Peru:**
+
+[CONCYTEC](https://www.gob.pe/concytec){target=_blank} - National Council of Science, Technology and Innovation
+
+### :fontawesome-solid-earth-americas: Regional Latin America
+
+[RedCLARA](https://www.redclara.net/en/){target=_blank} - Latin American research and education network
+
+[LA Referencia](https://www.lareferencia.info/en/){target=_blank} - Latin American network of institutional repositories
+
+[SciELO](https://scielo.org/){target=_blank} - Scientific Electronic Library Online for Latin America
+
+[AmeliCA](https://amelica.org/index.php/en/){target=_blank} - open knowledge cooperative infrastructure for Latin America
 
 ## :fontawesome-solid-earth-oceania: Oceania
 
@@ -101,11 +143,31 @@
 
 ## :fontawesome-solid-earth-africa: Africa
 
-[African Academy of Science](https://www.aasciences.africa/funding){target=_blank}
+### Continental Organizations
 
-[Science4Africa](https://science4africa.org/resources){target=_blank}
+[African Academy of Sciences (AAS)](https://aasciences.africa/funding-opportunities){target=_blank} - leading African science academy with multiple funding programs
 
-[South African National Research Foundation](https://www.nrf.ac.za/funding/){target=_blank}
+[AESA (Alliance for Accelerating Excellence in Science in Africa)](https://aasciences.africa/aesa){target=_blank} - programmatic arm of AAS mobilizing R&D funding
+
+[ARISE Programme](https://arise.aasciences.app/){target=_blank} - African Research Initiative for Scientific Excellence, €500K grants for 5 years
+
+[TWAS (World Academy of Sciences)](https://twas.org/opportunities){target=_blank} - research grants for developing countries in Africa
+
+[TWAS Seed Grant for New African PIs](https://twas.org/opportunity/seed-grant-new-african-principal-investigators-sg-napi){target=_blank} - grants for early-career African scientists under 40
+
+[Science Granting Councils Initiative (SGCI)](https://sgciafrica.org/){target=_blank} - strengthening science funding agencies in Sub-Saharan Africa
+
+[Science4Africa](https://science4africa.org/resources){target=_blank} - resources for African researchers
+
+### National Agencies
+
+**Kenya:**
+
+[National Research Fund (NRF Kenya)](https://www.nrf.go.ke/){target=_blank} - Kenya's national research funding agency
+
+**South Africa:**
+
+[National Research Foundation (NRF South Africa)](https://www.nrf.ac.za/){target=_blank} - South Africa's leading research funding agency
 
 ## :material-bank: Foundations
 
