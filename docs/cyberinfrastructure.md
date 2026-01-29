@@ -42,9 +42,29 @@
 
 [NIH STRIDES](https://cloud.nih.gov/){target=_blank} - NIH Strategic Partnerships providing AWS, Google, Azure access with enterprise support
 
+### Commercial Cloud Research Credits
+
+[AWS Cloud Credit for Research](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/){target=_blank} - Amazon Web Services research credit program
+
+[Google Cloud Research Credits](https://cloud.google.com/edu/researchers){target=_blank} - Google Cloud Platform credits for academic researchers
+
+[Microsoft Azure Research Credits](https://www.microsoft.com/en-us/azure-academic-research/){target=_blank} - Azure credits for academic research projects
+
 ### Commercial Cloud Education Programs
 
+[AWS Cloud for Education](https://aws.amazon.com/education/){target=_blank} - Amazon educational programs and credits
+
+[Google Cloud for Education](https://edu.google.com/){target=_blank} - Google Cloud education programs
+
+[Microsoft Azure for Education](https://azure.microsoft.com/en-us/community/education){target=_blank} - Azure for students and educators
+
+[GitHub Education](https://education.github.com/){target=_blank} - GitHub student developer pack with free Codespaces hours
+
 [DigitalOcean](https://www.digitalocean.com/){target=_blank} - commercial cloud platform with education and research programs
+
+### Open Source Cloud Software
+
+[OpenStack](https://www.openstack.org/){target=_blank} - most widely deployed open source cloud software in the world, powers many research clouds
 
 ## :material-kubernetes: Federated Kubernetes & Distributed Computing
 
@@ -187,7 +207,31 @@
 
 [D4Science](https://www.d4science.org/){target=_blank} - European e-Infrastructure platform for collaborative research
 
+## :material-flag: Regional Research Infrastructure
+
+### Canada
+
+[Compute Canada](https://computecanada.ca/){target=_blank} - national advanced research computing platform (transitioning to Digital Research Alliance)
+
+[Digital Research Alliance of Canada](https://alliancecan.ca/){target=_blank} - national organization providing research computing, data management, and software services
+
+[Federated Research Data Repository (FRDR)](https://www.frdr-dfdr.ca/repo/){target=_blank} - bilingual national data repository for Canadian researchers
+
+### Australia & New Zealand
+
+[AARNet](https://www.aarnet.edu.au/){target=_blank} - Australia's Academic and Research Network providing high-speed connectivity and cloud services
+
+[New Zealand eScience Infrastructure (NeSI)](https://www.nesi.org.nz/){target=_blank} - national computing infrastructure for New Zealand researchers
+
+### South Africa
+
+[National Integrated Cyberinfrastructure System (NICIS)](https://www.chpc.ac.za/){target=_blank} - South Africa's Centre for High Performance Computing (note: nicis.ac.za has SSL issues, using CHPC alternate URL)
+
 ## :material-history: Ended or Transitioned Services
+
+⚠️ **XSEDE (Extreme Science and Engineering Discovery Environment)** - US NSF advanced cyberinfrastructure program ended in 2022, replaced by ACCESS (Advanced Cyberinfrastructure Coordination Ecosystem)
+
+⚠️ **National Data Service (NDS) Labs** - experimental space for research data management services (inactive since 2018)
 
 ⚠️ **National Data Service (NDS) Labs** - experimental space for research data management services (inactive since 2018)
 

@@ -36,10 +36,7 @@ nav = [
     {"Publishing" = "publishing.md"},
     {"Reviews" = "reviews.md"}
   ]},
-  {"Distributed Computing" = [
-    {"Cyberinfrastructure" = "cyberinfrastructure.md"},
-    {"Cloud" = "cloud.md"}
-  ]},
+  {"Cyberinfrastructure" = "cyberinfrastructure.md"},
   {"Hardware" = "hardware.md"},
   {"Software" = "software.md"},
   {"AI & Machine Learning" = "ai-ml.md"},
