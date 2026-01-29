@@ -159,6 +159,10 @@
 
 [Google Earth Engine](https://earthengine.google.com/noncommercial/){target=_blank}
 
+### Google Earth Engine Community Catalog
+
+[Awesome GEE Community Catalog](https://gee-community-catalog.org/){target=_blank} - community-driven collection of 500+ geospatial datasets for Google Earth Engine, curated by Samapriya Roy. Includes atmospheric data, elevation models, land use/land cover, climate data, and specialized geoscience datasets not available in the official GEE catalog.
+
 [Microsoft AI for Earth Datasets](https://github.com/microsoft/AIforEarthDataSets){target=_blank}
 
 [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/){target=_blank}
