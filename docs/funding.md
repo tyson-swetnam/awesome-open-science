@@ -17,9 +17,11 @@
 
 [Ciencia abierta](https://doi.org/10.30878/ces.v30n1a11){target=_blank} 
 
-### :fontawesome-solid-earth-americas: United States 
+### :fontawesome-solid-earth-americas: United States
 
 [Science.gov](https://open.science.gov/){target=_blank} - Open Science Announcements from Federal Agencies
+
+[The Navigation Fund Open Science Grants](https://www.navigation.org/grants/open-science){target=_blank} - funding for open science initiatives and tools
 
 [Early Career Funding Opportunities (via Johns Hopkins University)](https://research.jhu.edu/rdt/funding-opportunities/early-career/){target=_blank}
 
@@ -31,7 +33,11 @@
 
 [Department of Energy (DoE)](https://www.energy.gov/science/office-science){target=_blank}
 
+[National Aeronautics and Space Administration (NASA)](https://science.nasa.gov/researchers/sara/grant-solicitations){target=_blank} - NASA research funding opportunities through ROSES
+
 [National Institute of Food and Agriculture (NIFA)](https://www.nifa.usda.gov/grants/funding-opportunities){target=_blank}
+
+[National Oceanic and Atmospheric Administration (NOAA)](https://www.noaa.gov/grants){target=_blank} - funding for ocean, coastal, and atmospheric research
 
 ### :fontawesome-solid-earth-americas: Brazil
 
@@ -47,11 +53,51 @@
 
 ## :fontawesome-solid-earth-europe: Europe
 
+[European Research Council (ERC)](https://erc.europa.eu/){target=_blank} - funds investigator-driven frontier research across all fields through Starting, Consolidator, Advanced, and Synergy Grants
+
 [UK Grants Online](https://www.grantsonline.org.uk/){target=_blank}
 
-[Horizon Europe](https://ec.europa.eu/info/research-and-innovation/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en){target=_blank} - an ambitious 85 billion euros research and innovation programme that started 2021 and will run for seven years.
+[UK Research and Innovation (UKRI)](https://www.ukri.org/){target=_blank} - umbrella organization for UK research councils including BBSRC, EPSRC, ESRC, MRC, NERC, AHRC, and STFC
+
+[Horizon Europe](https://ec.europa.eu/info/research-and-innovation/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en){target=_blank} - an ambitious 85 billion euros research and innovation programme that started 2021 and will run for seven years
 
 [European Commission](https://ec.europa.eu/info/research-and-innovation/funding/funding-opportunities_en){target=_blank} - Information about research and innovation funding programmes, including Horizon Europe, the Cohesion Fund, LIFE, ERDF, ESIF and RFCS
+
+[German Research Foundation (DFG)](https://www.dfg.de/en){target=_blank} - Germany's central research funding organization supporting independent research
+
+[Agence Nationale de la Recherche (ANR)](https://anr.fr/en/){target=_blank} - French national research funding agency
+
+[Netherlands Organisation for Scientific Research (NWO)](https://www.nwo.nl/en){target=_blank} - Dutch research council funding scientific research
+
+[Swiss National Science Foundation (SNSF)](https://www.snf.ch/en){target=_blank} - Switzerland's premier research funding organization
+
+[Open Research Area (ORA)](https://esrc.ukri.org/research/international-research/open-research-area-ora/){target=_blank} - collaboration between ANR (France), DFG (Germany), ESRC (UK) and NWO (Netherlands) for social sciences research
+
+## :fontawesome-solid-earth-asia: Asia-Pacific
+
+### Japan
+
+[Japan Society for the Promotion of Science (JSPS)](https://www.jsps.go.jp/english/){target=_blank} - Japan's premier research funding agency supporting international collaboration and researcher mobility
+
+[e-ASIA Joint Research Program](https://www.the-easia.org/jrp/){target=_blank} - multilateral research funding program among East Asian countries
+
+### China
+
+[National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/english/site_1/index.html){target=_blank} - China's primary research funding agency for basic research
+
+### India
+
+[Indian Council of Social Science Research (ICSSR)](https://icssr.org/){target=_blank} - India's premier social science research funding organization
+
+[Department of Science and Technology (DST) India](https://dst.gov.in/){target=_blank} - Indian government agency for science and technology research
+
+### Singapore
+
+[National Research Foundation Singapore](https://www.nrf.gov.sg/){target=_blank} - sets research and development direction and funds strategic research initiatives
+
+### South Korea
+
+[National Research Foundation of Korea (NRF)](https://www.nrf.re.kr/eng/index){target=_blank} - Korea's primary research funding agency
 
 ## :fontawesome-solid-earth-africa: Africa
 
@@ -63,24 +109,32 @@
 
 ## :material-bank: Foundations
 
-[Science Philanthropy Alliance](https://sciencephilanthropyalliance.org/){target=_blank}
+[Science Philanthropy Alliance](https://sciencephilanthropyalliance.org/){target=_blank} - coalition of philanthropies supporting basic scientific research
 
-[Alfred P. Sloan](https://sloan.org/){target=_blank}
+[Alfred P. Sloan Foundation](https://sloan.org/){target=_blank} - supports research in science, technology, engineering, mathematics, and economics
 
-[Bill & Melinda Gates](https://www.gatesfoundation.org/about/policies-and-resources/open-access-policy){target=_blank}
+[Arnold Ventures](https://www.arnoldventures.org/){target=_blank} - evidence-based philanthropy with open science guidelines for research grants
 
-[Chan-Zuckerberg](https://chanzuckerberg.com/science/programs-resources/open-science/){target=_blank}
+[Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/about/policies-and-resources/open-access-policy){target=_blank} - global health and development research with open access policy
 
-[Gordon & Betty Moore](https://www.moore.org/programs/science){target=_blank}
+[Chan Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/science/programs-resources/open-science/){target=_blank} - supports open science including Essential Open Source Software for Science program (partnership with Kavli and Wellcome)
 
-[OceanKind](https://oceankind.org/){target=_blank}
+[Gordon and Betty Moore Foundation](https://www.moore.org/programs/science){target=_blank} - funds scientific discovery and environmental conservation research
 
-[Open Research Funders Group](https://www.orfg.org/){target=_blank}
+[Kavli Foundation](https://www.kavlifoundation.org/){target=_blank} - supports fundamental research in astrophysics, nanoscience, neuroscience, and theoretical physics
 
-[John D. and Catherine T. MacArthur](https://www.macfound.org/){target=_blank}
+[Wellcome Trust](https://wellcome.org/grant-funding){target=_blank} - UK-based global health research foundation supporting open science and open source software (partner in CZI-Kavli-Wellcome Essential Open Source Software initiative)
 
-[Research Corporation for Science Advancement](https://rescorp.org/){target=_blank}
+[Open Research Funders Group (ORFG)](https://www.orfg.org/){target=_blank} - consortium of funding organizations committed to open research practices
 
-[Robert Wood Johnson](https://www.rwjf.org/en/how-we-work/grants-explorer/funding-opportunities.html){target=_blank}
+[John D. and Catherine T. MacArthur Foundation](https://www.macfound.org/){target=_blank} - supports creative people, effective institutions, and influential networks
 
-[Simons](https://www.simonsfoundation.org/funding-opportunities/){target=_blank}
+[OceanKind](https://oceankind.org/){target=_blank} - supports ocean conservation and marine science research
+
+[Research Corporation for Science Advancement](https://rescorp.org/){target=_blank} - private foundation advancing fundamental research in physics, chemistry, and astronomy
+
+[Robert Wood Johnson Foundation](https://www.rwjf.org/en/how-we-work/grants-explorer/funding-opportunities.html){target=_blank} - largest philanthropy focused on health in the United States
+
+[Simons Foundation](https://www.simonsfoundation.org/funding-opportunities/){target=_blank} - supports research in mathematics and the basic sciences
+
+[Templeton World Charity Foundation](https://www.templetonworldcharity.org/){target=_blank} - funds research exploring big questions in science, philosophy, and theology
