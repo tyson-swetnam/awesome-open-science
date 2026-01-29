@@ -42,6 +42,7 @@ nav = [
   ]},
   {"Hardware" = "hardware.md"},
   {"Software" = "software.md"},
+  {"AI & Machine Learning" = "ai-ml.md"},
   {"Education" = "edu.md"},
   {"Networks" = "networks.md"}
 ]
