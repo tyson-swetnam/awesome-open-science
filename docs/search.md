@@ -40,45 +40,45 @@
 
 [Bielefeld Academic Search Engine (BASE)](https://www.base-search.net/){target=_blank} - provides more than 240 million documents from more than 8,000 content providers
 
-[BioOne](https://bioone.org/){target=_blank}
+[BioOne](https://bioone.org/){target=_blank} - aggregator of bioscience research journals
 
-[CERN Document Server](https://cds.cern.ch/?ln=en){target=_blank}
+[CERN Document Server](https://cds.cern.ch/?ln=en){target=_blank} - CERN's repository for physics publications
 
-[CiteSeerX](http://citeseerx.ist.psu.edu/index){target=_blank}
+[CiteSeerX](http://citeseerx.ist.psu.edu/index){target=_blank} - digital library for computer science literature
 
-[CORE](https://core.ac.uk/){target=_blank} - currently contains 207,255,818 open access articles collected from 10,591 data providers around the world.
+[CORE](https://core.ac.uk/){target=_blank} - 207M+ open access articles from 10,000+ providers
 
-[DeepDive](http://deepdive.stanford.edu/){target=_blank}
-    
-- [PaleoDeepDive](http://deepdive.stanford.edu/paleo){target=_blank}
-     
-- [GeoDeepDive](https://geodeepdive.org/){target=_blank}
+[DeepDive](http://deepdive.stanford.edu/){target=_blank} - Stanford's knowledge extraction system
 
-[Directory of Open Access Journals](https://doaj.org/){target=_blank} -  a community-curated online directory that indexes and provides access to high quality, open access, peer-reviewed journals.
+- [PaleoDeepDive](http://deepdive.stanford.edu/paleo){target=_blank} - paleobiology literature mining
 
-[Mendeley(Elsevier)](https://www.elsevier.com/solutions/mendeley){target=_blank}
+- [GeoDeepDive (xDD)](https://xdd.wisc.edu/){target=_blank} - geoscience digital library and knowledge extraction
 
-[Microsoft Academic Research](https://www.microsoft.com/en-us/research/project/academic/){target=_blank}
+[Directory of Open Access Journals (DOAJ)](https://doaj.org/){target=_blank} - 20,000+ peer-reviewed open access journals
 
-[Organic ePrints](https://orgprints.org/){target=_blank} -  is an international open access archive for papers and projects related to research in organic food and farming. 
+[Mendeley](https://www.elsevier.com/solutions/mendeley){target=_blank} - reference manager and academic social network
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/){target=_blank}
+[Microsoft Academic](https://www.microsoft.com/en-us/research/project/academic/){target=_blank} - Microsoft's academic search engine (discontinued 2021)
 
-[ResearchGate](https://www.researchgate.net/){target=_blank}
+[Organic ePrints](https://orgprints.org/){target=_blank} - open access archive for organic agriculture
 
-[Science.gov](https://www.science.gov/){target=_blank}
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/){target=_blank} - biomedical literature database with 35M+ citations
 
-[ScienceDirect](https://www.sciencedirect.com/){target=_blank}
+[ResearchGate](https://www.researchgate.net/){target=_blank} - academic social network for sharing papers
 
-[ScienceOpen](https://www.scienceopen.com/){target=_blank}
+[Science.gov](https://www.science.gov/){target=_blank} - US government science information portal
 
-[Scopus](https://www.scopus.com/home.uri){target=_blank}
+[ScienceDirect](https://www.sciencedirect.com/){target=_blank} - Elsevier's full-text scientific database
 
-[Semantic Scholar](https://www.semanticscholar.org/){target=_blank}
+[ScienceOpen](https://www.scienceopen.com/){target=_blank} - open research and publishing network
 
-[SSRN](https://www.ssrn.com/index.cfm/en/){target=_blank} - formerly Social Science Research Network, now owned by Elsevier
+[Scopus](https://www.scopus.com/home.uri){target=_blank} - Elsevier's citation database covering 27,000+ journals
 
-[UpToDate](https://www.uptodate.com/contents/search){target=_blank}
+[Semantic Scholar](https://www.semanticscholar.org/){target=_blank} - AI-powered research literature search
+
+[SSRN](https://www.ssrn.com/index.cfm/en/){target=_blank} - Social Science Research Network preprint repository
+
+[UpToDate](https://www.uptodate.com/contents/search){target=_blank} - evidence-based clinical decision support
 
 ## :material-file-document-multiple: Preprint Servers
 
@@ -104,10 +104,10 @@
 
 ## Query Languages
 
-[Web Ontology Language (OWL)](https://www.w3.org/OWL/){target=_blank}
+[Web Ontology Language (OWL)](https://www.w3.org/OWL/){target=_blank} - W3C semantic web ontology language
 
-[Resource Description Framework (RDF)](https://www.w3.org/RDF/){target=_blank} - the RDF is a World Wide Web Consortium (W3C) standard originally designed as a data model for metadata.
+[Resource Description Framework (RDF)](https://www.w3.org/RDF/){target=_blank} - W3C standard for representing linked data
 
-[SPARQL](https://www.w3.org/TR/rdf-sparql-query/){target=_blank}
+[SPARQL](https://www.w3.org/TR/rdf-sparql-query/){target=_blank} - query language for RDF databases
 
-[GeoSPARQL](https://www.ogc.org/standards/geosparql){target=_blank}
+[GeoSPARQL](https://www.ogc.org/standards/geosparql){target=_blank} - geographic extension to SPARQL query language

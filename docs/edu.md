@@ -14,11 +14,11 @@
 
 [National Digital Inclusion Allaince](https://www.digitalinclusion.org/){target=_blank} - advances digital equity by supporting community programs and equipping policymakers to act.
 
-[Net Literacy](https://www.netliteracy.org/){target=_blank}
+[Net Literacy](https://netliteracy.org/){target=_blank} - student-led nonprofit teaching digital literacy skills
 
-[NIST](https://www.nist.gov/programs-projects/research-data-framework-rdaf){target=_blank} - Research Data Framework (RDaF) 
+[NIST Research Data Framework](https://www.nist.gov/programs-projects/research-data-framework-rdaf){target=_blank} - framework for managing research data lifecycle
 
-[Open Educational Resources Commons](https://www.oercommons.org/){target=_blank}
+[Open Educational Resources Commons](https://oercommons.org/){target=_blank} - library of freely accessible teaching materials
 
 [Project Pythia](https://projectpythia.org/){target=_blank} is the education working group for Pangeo and is an educational resource for the entire geoscience community. 
 
@@ -28,13 +28,13 @@
 
 ## Materials
 
-[Teach Together](https://teachtogether.tech/en/index.html#){target=_blank} by Greg Wilson
+[Teach Together](https://teachtogether.tech/en/index.html){target=_blank} - evidence-based teaching guide by Greg Wilson
 
-[DigitalLearn](https://www.digitallearn.org/){target=_blank}
+[DigitalLearn](https://www.digitallearn.org/){target=_blank} - free online courses for essential digital skills
 
 ## Courses
 
-[TOPS Open Science 101](https://openscience101.org/){target=_blank}
+[TOPS Open Science 101](https://openscience101.org/){target=_blank} - NASA's free open science certification course
 
 ## Amazing Open Scientists & Educators
 

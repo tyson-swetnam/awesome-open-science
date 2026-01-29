@@ -2,15 +2,15 @@
 
 [Team Science](https://www.nationalacademies.org/our-work/the-science-of-team-science){target=_blank} "is a new interdisciplinary field that empirically examines the processes by which large and small scientific teams, research centers, and institutes organize, communicate, and conduct research."
 
-[:simple-wikipedia: Team Science Definition](https://en.wikipedia.org/wiki/Science_of_team_science){target=_blank}
+[:simple-wikipedia: Team Science Definition](https://en.wikipedia.org/wiki/Science_of_team_science){target=_blank} - Wikipedia overview of collaborative research science
 
-[COALESE Team Science](https://www.teamscience.net/){target=_blank}
+[COALESCE Team Science](https://www.teamscience.net/){target=_blank} - resources and tools for team-based research
 
-[University of Arizona Knowledge Map (KMAP)](https://kmap.arizona.edu){target=_blank} 
+[University of Arizona Knowledge Map (KMAP)](https://kmap.arizona.edu/){target=_blank} - network visualization of UArizona research collaborations
 
 # Global Networks
 
-(Meta list) [Open Scholarship Grassroots Community Networks](https://docs.google.com/spreadsheets/d/1LNF5_bOkRV-RLIF4HYmu-gOemIa4IdfXEer89fM-Vy8/edit#gid=847887324){target=_blank}
+(Meta list) [Open Scholarship Grassroots Community Networks](https://docs.google.com/spreadsheets/d/1LNF5_bOkRV-RLIF4HYmu-gOemIa4IdfXEer89fM-Vy8/edit#gid=847887324){target=_blank} - global directory of open science communities
 
 ## International
 
@@ -28,41 +28,41 @@
 
 [Force11](https://force11.org/){target=_blank} - Future of Research Communications and e-Scholarship community
 
-[Global Open Science Cloud](https://codata.org/initiatives/decadal-programme2/global-open-science-cloud/){target=_blank}
+[Global Open Science Cloud](https://codata.org/initiatives/decadal-programme2/global-open-science-cloud/){target=_blank} - CODATA initiative for global data infrastructure
 
-[NumFocus](https://numfocus.org/){target=_blank}
+[NumFOCUS](https://numfocus.org/){target=_blank} - nonprofit supporting open source scientific computing
 
-[Open Access Working Group](https://sparcopen.org/people/open-access-working-group/){target=_blank}
+[Open Access Working Group](https://sparcopen.org/people/open-access-working-group/){target=_blank} - SPARC coalition advancing open access
 
-[Open Research Funders Group](https://www.orfg.org/)
+[Open Research Funders Group](https://www.orfg.org/){target=_blank} - funders committed to open research practices
 
-[Open Science Foundation](https://osf.io/){target=_blank}
+[Open Science Framework](https://osf.io/){target=_blank} - platform for research workflow and collaboration
 
-[Open Science Network](https://www.opensciencenetwork.org/){target=_blank}
+[Open Science Network](https://www.opensciencenetwork.org/){target=_blank} - community advancing open science principles
 
-[pyOpenSci](https://www.pyopensci.org/){target=_blank}
+[pyOpenSci](https://www.pyopensci.org/){target=_blank} - diverse community promoting open Python scientific software
 
-[R OpenSci](https://ropensci.org/){target=_blank}
+[rOpenSci](https://ropensci.org/){target=_blank} - community developing R packages for data access
 
-[Research Data Alliance (RDA)](https://www.rd-alliance.org/){target=_blank}
+[Research Data Alliance (RDA)](https://www.rd-alliance.org/){target=_blank} - international data sharing and interoperability
 
-[The Turing Way](https://the-turing-way.netlify.app/welcome){target=_blank}
+[The Turing Way](https://book.the-turing-way.org/){target=_blank} - handbook for reproducible data science
 
-[UNESCO Global Open Science Partnership](https://en.unesco.org/science-sustainable-future/open-science/partnership){target=_blank}
+[UNESCO Global Open Science Partnership](https://www.unesco.org/en/open-science){target=_blank} - UNESCO initiative advancing open science worldwide
 
-[World Wide Web Consortium (W3C)](https://www.w3.org/){target=_blank}
+[World Wide Web Consortium (W3C)](https://www.w3.org/){target=_blank} - international web standards organization
 
-## National 
+## National
 
 ### Brazil
 
-[Civis](https://civis.ibict.br/en/){target=_blank}
+[Civis](https://civis.ibict.br/en/){target=_blank} - Brazilian open science and data sharing platform
 
-[Cinda Lab](https://cindalab.ibict.br/){target=_blank}
+[Cinda Lab](https://cindalab.ibict.br/){target=_blank} - Brazilian data science and information laboratory
 
 ### South Africa
 
-[Africa Open Science Platform](https://aosp.org.za/){target=_blank}
+[Africa Open Science Platform](https://aosp.org.za/){target=_blank} - advancing open science across African continent
 
 ### Europe
 
@@ -78,22 +78,22 @@
 
 ### US
 
-[Center for Open Science](https://www.cos.io/){target=_blank}
+[Center for Open Science](https://www.cos.io/){target=_blank} - nonprofit improving research openness and reproducibility
 
-[CI Compass](https://ci-compass.org/){target=_blank} - provides expertise and active support to cyberinfrastructure practitioners at USA NSF Major Facilities in order to accelerate the data lifecycle and ensure the integrity and effectiveness of the cyberinfrastructure upon which research and discovery depend.
+[CI Compass](https://ci-compass.org/){target=_blank} - cyberinfrastructure expertise for NSF Major Facilities
 
-[Earth Science Information Partners (ESIP) Federation](https://www.esipfed.org/){target=_blank} -  is a 501(c)(3) nonprofit supported by NASA, NOAA, USGS and 130+ member organizations.
+[Earth Science Information Partners (ESIP)](https://www.esipfed.org/){target=_blank} - 501(c)(3) federation of 130+ Earth data organizations
 
-[Internet2](https://internet2.edu/){target=_blank} - is a community providing cloud solutions, research support, and services tailored for Research and Education. 
+[Internet2](https://internet2.edu/){target=_blank} - advanced networking and cloud for research institutions
 
-[Minority Serving Cyberinfrastructure Consortium (MS-CC)](https://www.ms-cc.org/){target=_blank} envisions a transformational partnership to promote advanced cyberinfrastructure (CI) capabilities on the campuses of Historically Black Colleges and Universities (HBCUs), Hispanic-Serving Institutions (HSIs), Tribal Colleges and Universities (TCUs), and other Minority Serving Institutions (MSIs). 
+[Minority Serving Cyberinfrastructure Consortium (MS-CC)](https://www.ms-cc.org/){target=_blank} - promoting CI at HBCUs, HSIs, and TCUs 
 
-[NASA Transform to Open Science (TOPS)](https://github.com/nasa/Transform-to-Open-Science){target=_blank} - coordinates efforts designed to rapidly transform agencies, organizations, and communities for Earth Science
+[NASA Transform to Open Science (TOPS)](https://github.com/nasa/Transform-to-Open-Science){target=_blank} - NASA initiative transforming to open science practices
 
-[The Quilt](https://www.thequilt.net/){target=_blank} - non-profit regional research and education networks collaborate to develop, deploy and operate advanced cyberinfrastructure that enables innovation in research and education.
+[The Quilt](https://www.thequilt.net/){target=_blank} - nonprofit consortium of regional research networks
 
 ### Oceania
 
-[New Zealand Open Research Network](https://nzorn.netlify.app/) - New Zealand Open Research Network (NZORN) is a collection of researchers and research-associated workers in New Zealand.
+[New Zealand Open Research Network (NZORN)](https://nzorn.netlify.app/){target=_blank} - NZ researchers advancing open research practices
 
-[Australia & New Zealand Open Research Network](https://www.anzopenresearch.org/) - ANZORN is a network of local networks distributed without Australia and New Zealand.
+[Australia & New Zealand Open Research Network (ANZORN)](https://www.anzopenresearch.org/){target=_blank} - network of open research communities

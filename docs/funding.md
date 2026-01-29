@@ -11,11 +11,11 @@
 
 ### :fontawesome-solid-earth-americas: Canada
 
-[Natural Sciences and Engineering Research Council of Canada](https://www.nserc-crsng.gc.ca/index_eng.asp){target=_blank}
+[Natural Sciences and Engineering Research Council of Canada (NSERC)](https://nserc-crsng.canada.ca/en){target=_blank} - Canada's federal research funding agency
 
 ### :fontawesome-solid-earth-americas: Mexico
 
-[Ciencia abierta](https://doi.org/10.30878/ces.v30n1a11){target=_blank} 
+[Ciencia abierta](https://doi.org/10.30878/ces.v30n1a11){target=_blank} - open science policy in Latin America 
 
 ### :fontawesome-solid-earth-americas: United States
 
@@ -23,15 +23,15 @@
 
 [The Navigation Fund Open Science Grants](https://www.navigation.org/grants/open-science){target=_blank} - funding for open science initiatives and tools
 
-[Early Career Funding Opportunities (via Johns Hopkins University)](https://research.jhu.edu/rdt/funding-opportunities/early-career/){target=_blank}
+[Early Career Funding Opportunities](https://research.jhu.edu/rdt/funding-opportunities/early-career/){target=_blank} - Johns Hopkins curated list for early career
 
-[Grant Explorer (App)](https://www.grantexplorer.org/){target=_blank} - view history of funded projects from NSF, NIH, and DoD
+[Grant Explorer](https://www.grantexplorer.org/){target=_blank} - search funded projects from NSF, NIH, DoD
 
-[National Science Foundation (NSF)](https://nsf.gov){target=_blank}
+[National Science Foundation (NSF)](https://www.nsf.gov/){target=_blank} - US federal agency funding fundamental research
 
-[National Institutes of Health (NIH)](https://www.nih.gov/grants-funding){target=_blank}
+[National Institutes of Health (NIH)](https://www.nih.gov/grants-funding){target=_blank} - largest public funder of biomedical research
 
-[Department of Energy (DoE)](https://www.energy.gov/science/office-science){target=_blank}
+[Department of Energy (DoE)](https://www.energy.gov/science/office-science){target=_blank} - funds physical sciences and energy research
 
 [National Aeronautics and Space Administration (NASA)](https://science.nasa.gov/researchers/sara/grant-solicitations){target=_blank} - NASA research funding opportunities through ROSES
 
@@ -41,23 +41,23 @@
 
 ### :fontawesome-solid-earth-americas: Brazil
 
-[Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)](https://www.gov.br/cnpq/pt-br){target=_blank}
+[CNPq](https://www.gov.br/cnpq/pt-br){target=_blank} - Brazil's National Council for Scientific Development
 
-[Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior) (CAPES)](https://www.iie.org/programs/capes/){target=_blank}
+[CAPES](https://www.iie.org/programs/capes/){target=_blank} - Brazilian agency for graduate education advancement
 
 ## :fontawesome-solid-earth-oceania: Oceania
 
-[Australian Academy of Science](https://www.science.org.au/curious/policy-features/open-science-and-scientific-excellence){target=_blank}
+[Australian Academy of Science](https://www.science.org.au/curious/policy-features/open-science-and-scientific-excellence){target=_blank} - Australian open science policy and resources
 
-[New Zealand Ministry of Business Innovation & Employment](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/)
+[New Zealand MBIE](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities){target=_blank} - NZ Ministry funding science and innovation
 
 ## :fontawesome-solid-earth-europe: Europe
 
 [European Research Council (ERC)](https://erc.europa.eu/){target=_blank} - funds investigator-driven frontier research across all fields through Starting, Consolidator, Advanced, and Synergy Grants
 
-[UK Grants Online](https://www.grantsonline.org.uk/){target=_blank}
+[UK Grants Online](https://www.grantsonline.org.uk/){target=_blank} - searchable database of UK funding opportunities
 
-[UK Research and Innovation (UKRI)](https://www.ukri.org/){target=_blank} - umbrella organization for UK research councils including BBSRC, EPSRC, ESRC, MRC, NERC, AHRC, and STFC
+[UK Research and Innovation (UKRI)](https://www.ukri.org/){target=_blank} - umbrella organization for UK research councils
 
 [Horizon Europe](https://ec.europa.eu/info/research-and-innovation/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en){target=_blank} - an ambitious 85 billion euros research and innovation programme that started 2021 and will run for seven years
 
