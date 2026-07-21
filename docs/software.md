@@ -32,6 +32,8 @@
 
 [Protocols.io](https://www.protocols.io/){target=_blank} - open access repository of science methods and research protocols
 
+[Bango](https://github.com/Bilal-S/Bango/blob/main/README.md){target=_blank} - open source AI-powered desktop app for systematic literature review screening, search, bibliometric analysis, and PRISMA 2020 diagrams; local-first and privacy-preserving
+
 ## :material-code-tags: Scientific Programming Languages
 
 ### Compiled Languages

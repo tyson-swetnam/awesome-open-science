@@ -158,6 +158,10 @@ Open source AI and machine learning tools, frameworks, and platforms for researc
 
 [FourCastNet](https://github.com/NVlabs/FourCastNet){target=_blank} - NVIDIA's global data-driven weather forecasting using neural networks
 
+### Research & Literature Analysis
+
+[Bango](https://github.com/Bilal-S/Bango/blob/main/README.md){target=_blank} - open source AI-powered desktop app for systematic literature review screening, search, bibliometric analysis, and PRISMA 2020 diagrams; local-first and privacy-preserving
+
 ## :material-scale-balance: AI Ethics & Responsible AI
 
 ### Fairness & Bias Detection
