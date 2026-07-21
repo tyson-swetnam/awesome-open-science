@@ -1,0 +1,85 @@
+[data-md-color-scheme="custom-red"] {
+    --md-primary-fg-color:        #EE0F0F;
+    --md-primary-fg-color--light: #ECB7B7;
+    --md-primary-fg-color--dark:  #90030C;
+  }
+
+/* Typography: tighter, more professional sizing */
+.md-typeset {
+  font-size: 0.82rem;
+  line-height: 1.5;
+}
+
+.md-typeset h1 {
+  font-size: 1.6em;
+  font-weight: 600;
+  margin-bottom: 0.4em;
+}
+
+.md-typeset h2 {
+  font-size: 1.3em;
+  font-weight: 600;
+  margin-top: 1.2em;
+  margin-bottom: 0.4em;
+}
+
+.md-typeset h3 {
+  font-size: 1.1em;
+  font-weight: 600;
+  margin-top: 1em;
+  margin-bottom: 0.3em;
+}
+
+/* Tighter paragraph spacing for link-list pages */
+.md-typeset p {
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+}
+
+/* Tighter list spacing */
+.md-typeset ul,
+.md-typeset ol {
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+}
+
+.md-typeset li {
+  margin-bottom: 0.15em;
+}
+
+/* Card grid styling for index page */
+.md-typeset .grid.cards > ul > li {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-left: 3px solid var(--md-primary-fg-color);
+  border-radius: 6px;
+  padding: 0.8em 1em;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.md-typeset .grid.cards > ul > li:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+}
+
+/* Category header styling */
+.md-typeset .category-header {
+  font-size: 0.75em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--md-primary-fg-color);
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid var(--md-primary-fg-color--light);
+}
+
+/* Hero quote styling */
+.md-typeset .hero-quote {
+  font-size: 1.05em;
+  border-left: 4px solid var(--md-primary-fg-color);
+  padding: 0.8em 1.2em;
+  margin: 1em 0;
+  background: var(--md-code-bg-color);
+  border-radius: 0 6px 6px 0;
+}
