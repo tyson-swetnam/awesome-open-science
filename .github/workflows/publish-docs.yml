@@ -33,8 +33,21 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      # Regenerated before the build so the deployed llms indexes are always
+      # current; the drift check below fails the run if the committed copies
+      # are stale.
+      - name: Generate llms.txt and llms-full.txt
+        run: python scripts/gen_llms_txt.py
+
+      - name: llms.txt drift
+        run: git diff --exit-code docs/llms.txt docs/llms-full.txt
+
       - name: Build with Zensical
         run: zensical build
+
+      # Agent surface: per-page Markdown twins, <link rel="alternate">, robots.txt
+      - name: Build agent surface
+        run: python scripts/postbuild_agent_surface.py site
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3

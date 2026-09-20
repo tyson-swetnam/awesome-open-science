@@ -1,3 +1,7 @@
+---
+description: Open source research software, IDEs, notebooks, and workflow tools.
+---
+
 !!! Quote "Defining Openness"
 
     "Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness)." - [The Open Definition](https://opendefinition.org/){target=_blank}

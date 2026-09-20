@@ -1,3 +1,7 @@
+---
+description: Open access journals, preprint servers, and publishing platforms.
+---
+
 ## Pre-Print Servers
 
 ### Multidisciplinary

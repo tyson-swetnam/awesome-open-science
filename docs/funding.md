@@ -1,3 +1,7 @@
+---
+description: Grants, awards, and travel funding for open science research worldwide.
+---
+
 
 [AAAS List](https://www.science.org/content/page/where-search-funding){target=_blank} - meta list of funding sources
 

@@ -1,3 +1,7 @@
+---
+description: Awesome List of open science platforms, tools, and resources for research and education.
+---
+
 <div class="hero-quote" markdown>
 **"Open Science is the movement to make scientific research (including publications, data, physical samples, and software) and its dissemination accessible to all levels of society, amateur or professional..."** [(Wikipedia)](https://en.wikipedia.org/wiki/Open_science){target=_blank}
 </div>
@@ -101,6 +105,12 @@ This Awesome List is compiled in the effort to help new researchers find and lea
     ---
 
     Organizations, communities, and networks advancing open science
+
+- :material-robot-happy-outline: **[For AI Agents](ai-agents.md)**
+
+    ---
+
+    llms.txt, llms-full.txt, and per-page Markdown for machine consumption
 
 </div>
 

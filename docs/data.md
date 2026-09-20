@@ -1,3 +1,7 @@
+---
+description: Repositories, standards, and resources for open research data.
+---
+
 ??? Tip "FAIR, CARE, & TRUST Principles"
 
     :material-magnify: :material-access-point: :fontawesome-solid-gears: :material-recycle: :octicons-people-24: :fontawesome-solid-building-columns: :fontawesome-solid-hands-holding-circle: :material-scale-balance:

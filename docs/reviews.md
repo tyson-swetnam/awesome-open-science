@@ -1,3 +1,7 @@
+---
+description: Open review platforms and transparent peer review initiatives.
+---
+
 
 [Wikipedia](https://en.wikipedia.org/wiki/Open_peer_review){target=_blank} definition of open peer review
 

@@ -1,0 +1,75 @@
+# Awesome-Open-Science
+
+> Awesome List of Open Science Tools. This is a curated "Awesome List": each page is a set of links to open science tools, platforms and resources, grouped by topic, with a one-line description of each entry. It is a directory of external resources rather than documentation of a single piece of software.
+
+Full corpus for ingestion: https://tyson-swetnam.github.io/awesome-open-science/llms-full.txt
+
+Every entry below lists three addresses that return the same content: the rendered page, its Markdown twin (the page URL plus `index.md`, served as `text/markdown`), and the raw source file on GitHub. Fetch whichever your sandbox allows; some permit github.com and raw.githubusercontent.com but not *.github.io.
+
+```
+Site page        https://tyson-swetnam.github.io/awesome-open-science/<path>/
+Markdown twin    https://tyson-swetnam.github.io/awesome-open-science/<path>/index.md
+Raw source       https://raw.githubusercontent.com/tyson-swetnam/awesome-open-science/main/docs/<path>.md
+```
+
+Inside a Markdown twin, and inside llms-full.txt, links to other pages are absolute and already point at those pages' Markdown twins, so an agent can traverse the whole site without leaving Markdown; drop the trailing `index.md` to reach the rendered page. Agent guide: https://tyson-swetnam.github.io/awesome-open-science/ai-agents/
+
+Notes for agents:
+
+- Entries are links to third-party projects. This site does not vouch for them beyond the curation criteria (open source or freely available, actively maintained, real adoption, documented); descriptions are written by the maintainers of this list, not by the projects.
+- Where an entry is archived, superseded or early-stage, its description says so. Carry that qualifier through rather than presenting the entry as a live recommendation.
+- Link rot is the main failure mode of a list like this. Check a URL before relying on it, and prefer the raw source on GitHub for the most recent revision.
+
+## Home
+
+- [Home](https://tyson-swetnam.github.io/awesome-open-science/): Awesome List of open science platforms, tools, and resources for research and education. Markdown twin: https://tyson-swetnam.github.io/awesome-open-science/index.md Raw source: https://raw.githubusercontent.com/tyson-swetnam/awesome-open-science/main/docs/index.md
+
+## Research
+
+- [Funding Opportunities](https://tyson-swetnam.github.io/awesome-open-science/funding/): Grants, awards, and travel funding for open science research worldwide. Markdown twin: https://tyson-swetnam.github.io/awesome-open-science/funding/index.md Raw source: https://raw.githubusercontent.com/tyson-swetnam/awesome-open-science/main/docs/funding.md
+- [Data Management Plans](https://tyson-swetnam.github.io/awesome-open-science/dmp/): Tools and templates for creating FAIR-compliant data management plans. Markdown twin: https://tyson-swetnam.github.io/awesome-open-science/dmp/index.md Raw source: https://raw.githubusercontent.com/tyson-swetnam/awesome-open-science/main/docs/dmp.md
+
+## Data
+
+- [Data](https://tyson-swetnam.github.io/awesome-open-science/data/): Repositories, standards, and resources for open research data. Markdown twin: https://tyson-swetnam.github.io/awesome-open-science/data/index.md Raw source: https://raw.githubusercontent.com/tyson-swetnam/awesome-open-science/main/docs/data.md
+
+## Search Engines
+
+- [Search Engines](https://tyson-swetnam.github.io/awesome-open-science/search/): Academic search engines and discovery tools for research literature. Markdown twin: https://tyson-swetnam.github.io/awesome-open-science/search/index.md Raw source: https://raw.githubusercontent.com/tyson-swetnam/awesome-open-science/main/docs/search.md
+
+## Open Access
+
+- [Publishing](https://tyson-swetnam.github.io/awesome-open-science/publishing/): Open access journals, preprint servers, and publishing platforms. Markdown twin: https://tyson-swetnam.github.io/awesome-open-science/publishing/index.md Raw source: https://raw.githubusercontent.com/tyson-swetnam/awesome-open-science/main/docs/publishing.md
+- [Reviews](https://tyson-swetnam.github.io/awesome-open-science/reviews/): Open review platforms and transparent peer review initiatives. Markdown twin: https://tyson-swetnam.github.io/awesome-open-science/reviews/index.md Raw source: https://raw.githubusercontent.com/tyson-swetnam/awesome-open-science/main/docs/reviews.md
+
+## Cyberinfrastructure
+
+- [Cyberinfrastructure](https://tyson-swetnam.github.io/awesome-open-science/cyberinfrastructure/): Cloud platforms, HPC, distributed computing, and science gateways. Markdown twin: https://tyson-swetnam.github.io/awesome-open-science/cyberinfrastructure/index.md Raw source: https://raw.githubusercontent.com/tyson-swetnam/awesome-open-science/main/docs/cyberinfrastructure.md
+
+## Hardware
+
+- [Hardware](https://tyson-swetnam.github.io/awesome-open-science/hardware/): Open hardware, sensors, single-board computers, and lab equipment. Markdown twin: https://tyson-swetnam.github.io/awesome-open-science/hardware/index.md Raw source: https://raw.githubusercontent.com/tyson-swetnam/awesome-open-science/main/docs/hardware.md
+
+## Software
+
+- [Software](https://tyson-swetnam.github.io/awesome-open-science/software/): Open source research software, IDEs, notebooks, and workflow tools. Markdown twin: https://tyson-swetnam.github.io/awesome-open-science/software/index.md Raw source: https://raw.githubusercontent.com/tyson-swetnam/awesome-open-science/main/docs/software.md
+
+## Autonomous Systems & Robotics
+
+- [Autonomous Systems & Robotics](https://tyson-swetnam.github.io/awesome-open-science/autonomous/): Simulators, digital twins, and autonomy stacks for ground, aerial, and marine robotics. Markdown twin: https://tyson-swetnam.github.io/awesome-open-science/autonomous/index.md Raw source: https://raw.githubusercontent.com/tyson-swetnam/awesome-open-science/main/docs/autonomous.md
+
+## AI & Machine Learning
+
+- [AI & Machine Learning](https://tyson-swetnam.github.io/awesome-open-science/ai-ml/): Open source LLMs, ML frameworks, and AI tools for scientific research. Markdown twin: https://tyson-swetnam.github.io/awesome-open-science/ai-ml/index.md Raw source: https://raw.githubusercontent.com/tyson-swetnam/awesome-open-science/main/docs/ai-ml.md
+
+## Education
+
+- [Education](https://tyson-swetnam.github.io/awesome-open-science/edu/): Training programs, courses, and resources for learning open science. Markdown twin: https://tyson-swetnam.github.io/awesome-open-science/edu/index.md Raw source: https://raw.githubusercontent.com/tyson-swetnam/awesome-open-science/main/docs/edu.md
+
+## Networks
+
+- [Networks](https://tyson-swetnam.github.io/awesome-open-science/networks/): Organizations, communities, and networks advancing open science. Markdown twin: https://tyson-swetnam.github.io/awesome-open-science/networks/index.md Raw source: https://raw.githubusercontent.com/tyson-swetnam/awesome-open-science/main/docs/networks.md
+
+## For AI Agents
+
+- [For AI Agents](https://tyson-swetnam.github.io/awesome-open-science/ai-agents/): How AI agents can consume this site — llms.txt, llms-full.txt, per-page Markdown, and robots.txt. Markdown twin: https://tyson-swetnam.github.io/awesome-open-science/ai-agents/index.md Raw source: https://raw.githubusercontent.com/tyson-swetnam/awesome-open-science/main/docs/ai-agents.md

@@ -1,3 +1,7 @@
+---
+description: Training programs, courses, and resources for learning open science.
+---
+
 ## Digital Literacy Organizations
 
 ### Global & North America
