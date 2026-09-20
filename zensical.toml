@@ -49,7 +49,6 @@ nav = [
 variant = "classic"
 language = "en"
 favicon = "material/sunglasses"
-custom_dir = "docs/overrides"
 
 [project.theme.icon]
 logo = "material/sunglasses"
@@ -166,7 +165,3 @@ custom_checkbox = true
 [project.plugins.mkdocstrings]
 
 [project.plugins.git-revision-date]
-
-[project.plugins.mkdocs-jupyter]
-include_source = true
-ignore_h1_titles = true

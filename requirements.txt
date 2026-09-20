@@ -1,30 +1,10 @@
-bump2version
-coverage
-flake8
-grip
-ipykernel
-livereload
-nbconvert>=7
-pip
-sphinx
-tox
-twine
-watchdog
-wheel
-mkdocs-git-revision-date-plugin
-mkdocs-jupyter
+# Build system (Rust-based; see zensical.toml for configuration)
 zensical
-mkdocs-pdf-export-plugin
+
+# Required: zensical hard-errors at build time if [project.plugins.mkdocstrings]
+# is declared in zensical.toml and this package is missing.
 mkdocstrings
-mkdocstrings-crystal
-mkdocstrings-python-legacy
 
-# Requirements for core
-jinja2>=3.0.2
-markdown>=3.2
-pygments>=2.12
-pymdown-extensions>=9.4
-
-# Requirements for plugins
-requests>=2.26
-cairosvg
+# Declared as [project.plugins.git-revision-date] in zensical.toml. Not currently
+# enforced by zensical and emits no output, but kept in sync with the config.
+mkdocs-git-revision-date-plugin
