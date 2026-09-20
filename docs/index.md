@@ -66,6 +66,12 @@ This Awesome List is compiled in the effort to help new researchers find and lea
 
     Open source LLMs, ML frameworks, and AI tools for scientific research
 
+- :material-robot-industrial: **[Autonomous Systems & Robotics](autonomous.md)**
+
+    ---
+
+    Simulators, digital twins, and autonomy stacks for ground, aerial, and marine robotics
+
 </div>
 
 <div class="category-header" markdown>:material-account-group: Community & Education</div>
