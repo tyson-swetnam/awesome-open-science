@@ -1,3 +1,7 @@
+---
+description: Open source LLMs, ML frameworks, and AI tools for scientific research.
+---
+
 # :material-robot: AI & Machine Learning
 
 Open source AI and machine learning tools, frameworks, and platforms for research and scientific computing.

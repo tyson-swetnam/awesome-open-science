@@ -1,3 +1,7 @@
+---
+description: Organizations, communities, and networks advancing open science.
+---
+
 # Team Science
 
 [Team Science](https://www.nationalacademies.org/our-work/the-science-of-team-science){target=_blank} "is a new interdisciplinary field that empirically examines the processes by which large and small scientific teams, research centers, and institutes organize, communicate, and conduct research."

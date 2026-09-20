@@ -1,3 +1,7 @@
+---
+description: Academic search engines and discovery tools for research literature.
+---
+
 ## Search Engines
 
 [OpenAIRE Explore](https://explore.openaire.eu/search/find/dataproviders){target=_blank} - European open science data provider search

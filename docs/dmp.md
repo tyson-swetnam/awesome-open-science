@@ -1,3 +1,7 @@
+---
+description: Tools and templates for creating FAIR-compliant data management plans.
+---
+
 
 ## :material-directions-fork: Funding Agency Guidelines
 

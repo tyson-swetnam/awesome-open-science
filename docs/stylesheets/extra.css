@@ -83,3 +83,16 @@
   background: var(--md-code-bg-color);
   border-radius: 0 6px 6px 0;
 }
+
+/* Agent surface: the "Machine-readable" pointer appended to every page by
+   scripts/postbuild_agent_surface.py. Visible on purpose — text extraction
+   and link-derived allowlists never see <head>. */
+.md-typeset .agent-surface-rule {
+  margin-top: 2em;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-typeset .agent-surface {
+  font-size: 0.7rem;
+  color: var(--md-default-fg-color--light);
+}

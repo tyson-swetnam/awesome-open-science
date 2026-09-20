@@ -8,7 +8,7 @@
 site_name = "Awesome-Open-Science"
 site_description = "Awesome List of Open Science Tools"
 site_author = "Tyson L Swetnam"
-site_url = "https://tysonswetnam.com/awesome-open-science"
+site_url = "https://tyson-swetnam.github.io/awesome-open-science"
 copyright = "Copyright &copy; 2026 Tyson Lee Swetnam"
 
 # Repository
@@ -42,7 +42,8 @@ nav = [
   {"Autonomous Systems & Robotics" = "autonomous.md"},
   {"AI & Machine Learning" = "ai-ml.md"},
   {"Education" = "edu.md"},
-  {"Networks" = "networks.md"}
+  {"Networks" = "networks.md"},
+  {"For AI Agents" = "ai-agents.md"}
 ]
 
 # Theme configuration

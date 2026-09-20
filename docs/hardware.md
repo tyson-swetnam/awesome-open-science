@@ -1,3 +1,7 @@
+---
+description: Open hardware, sensors, single-board computers, and lab equipment.
+---
+
 ## Open Source Hardware
 
 [Arduino](https://www.arduino.cc/){target=_blank} - open-source electronics platform for prototyping and education
