@@ -56,6 +56,8 @@
 
 [Directory of Open Access Journals (DOAJ)](https://doaj.org/){target=_blank} - 20,000+ peer-reviewed open access journals
 
+[Inciteful](https://incitefulmed.com/academic/){target=_blank} - free citation-graph literature discovery built on OpenAlex, with a no-login MCP server for AI assistants
+
 [Mendeley](https://www.elsevier.com/solutions/mendeley){target=_blank} - reference manager and academic social network
 
 [Microsoft Academic](https://www.microsoft.com/en-us/research/project/academic/){target=_blank} - Microsoft's academic search engine (discontinued 2021)
