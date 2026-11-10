@@ -56,10 +56,10 @@
 
 [Directory of Open Access Journals (DOAJ)](https://doaj.org/){target=_blank} - 20,000+ peer-reviewed open access journals
 [JournalCompass](https://journalcompass.com/){target=_blank} - free bilingual journal search across 60,000+ SCI/SSCI journals with CAS quartile, impact factor, review time and APC data, plus an AI matcher that recommends journals from an abstract
+
 [Mendeley](https://www.elsevier.com/solutions/mendeley){target=_blank} - reference manager and academic social network
 
 [Microsoft Academic](https://www.microsoft.com/en-us/research/project/academic/){target=_blank} - Microsoft's academic search engine (discontinued 2021)
-
 
 [Organic ePrints](https://orgprints.org/){target=_blank} - open access archive for organic agriculture
 
