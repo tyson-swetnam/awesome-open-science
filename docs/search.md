@@ -55,7 +55,7 @@
 - [GeoDeepDive (xDD)](https://xdd.wisc.edu/){target=_blank} - geoscience digital library and knowledge extraction
 
 [Directory of Open Access Journals (DOAJ)](https://doaj.org/){target=_blank} - 20,000+ peer-reviewed open access journals
-[JournalCompass](https://journalcompass.com/){target=_blank} - free bilingual journal search across 60,000+ SCI/SSCI journals with CAS quartile, impact factor, review time and APC data, plus an AI matcher that recommends journals from an abstract
+[JournalCompass](https://journalcompass.com/){target=_blank} - free bilingual journal search across 43,499 journals with CAS quartile, impact factor, review time and APC data, plus an AI matcher that recommends journals from an abstract
 
 [Mendeley](https://www.elsevier.com/solutions/mendeley){target=_blank} - reference manager and academic social network
 
